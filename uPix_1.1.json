@@ -2,7 +2,7 @@
 	"Item": {
 		"Limit": "0",
 		"Sub": "1",
-		"IAP": "1",
+		"IAP": "0",
 		"APP_URL":"",
 		"ALT_APP_URL":"",
 		"ALT_APP_TEXT":""
