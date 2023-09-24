@@ -3,5 +3,7 @@
     "title": "金",
     "copyright": "10700",
     "catchcopy": "JPY/g",
-  "thumbnail_url": "https://goldprice.org/charts/gold_1d_g_JPY_z.png"
+  "thumbnail_url": "https://goldprice.org/charts/gold_1d_g_JPY_z.png",
+  "expiration_date": "https://goldprice.org/charts/gold_30_day_g_x_jpy.png",
+  "expiration_date_text": "https://goldprice.org/charts/gold_1_year_g_x_jpy.png"
 }
