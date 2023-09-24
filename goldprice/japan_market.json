@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Gold    ",
-      "copyright": "5000",
+      "copyright": "10000",
       "catchcopy": "USD/g",
       "business_model_type": 7,
       "release_date": "2023-04-01T00:00:00",
@@ -44,7 +44,7 @@
     {
       "id": 2,
       "title": "Silver  ",
-      "copyright": "1000",
+      "copyright": "2000",
       "catchcopy": "USD/g",
       "business_model_type": 7,
       "release_date": "2023-04-01T00:00:00",
@@ -85,7 +85,7 @@
     {
       "id": 3,
       "title": "Platinu",
-      "copyright": "4000",
+      "copyright": "6000",
       "catchcopy": "USD/g",
       "business_model_type": 7,
       "release_date": "2023-04-01T00:00:00",
