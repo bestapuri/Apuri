@@ -1,0 +1,9 @@
+{
+   "id": 4,
+    "title": "Gold",
+    "copyright": "10000",
+    "catchcopy": "USD/g",
+  "thumbnail_url": "https://goldprice.org/charts/gold_1d_g_USD_z.png",
+  "expiration_date": "https://goldprice.org/charts/gold_30_day_g_x_usd.png",
+  "expiration_date_text": "https://goldprice.org/charts/gold_1_year_g_x_usd.png"
+}
