@@ -1,0 +1,22 @@
+{
+  "fav_comic": [
+    {
+      "id": 1,
+      "title": "黒炎・151池袋",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box"
+    },
+    {
+      "id": 2,
+      "title": "バイオレット",
+      "copyright": "2023/09/29 16:45:00",
+      "catchcopy": "3P"
+    },
+    {
+      "id": 3,
+      "title": "クレイバースト",
+      "copyright": "2023/09/28 11:00:00",
+      "catchcopy": "1box"
+    }
+  ]
+}
