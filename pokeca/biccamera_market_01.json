@@ -2,21 +2,51 @@
   "fav_comic": [
     {
       "id": 1,
-      "title": "黒炎・151",
+      "title": "VStarユニバース",
       "copyright": "2023/09/30 16:45:00",
-      "catchcopy": "１box"
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/2023/10/05/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7-4/",
+      "postId": "94"
     },
     {
       "id": 2,
-      "title": "バイオレット",
+      "title": "バイオレットex",
       "copyright": "2023/09/29 16:45:00",
-      "catchcopy": "3P"
+      "catchcopy": "3P",
+      "thumbnail_url": "https://nikijin.info/2023/10/05/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%80%90%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%a1%e3%83%a9%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e3%83%90/",
+      "postId": "97"
     },
     {
       "id": 3,
       "title": "クレイバースト",
       "copyright": "2023/09/28 11:00:00",
-      "catchcopy": "1box"
+      "catchcopy": "1box",
+      "thumbnail_url": "https://nikijin.info/2023/10/05/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%80%90%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%a1%e3%83%a9%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e3%83%90-2/",
+      "postId": "98"
+    },
+    {
+      "id": 4,
+      "title": "ポケモンカード151",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/2023/10/05/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%80%90%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%a1%e3%83%a9%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89151%e5%85%a5/",
+      "postId": "100"
+    },
+    {
+      "id": 5,
+      "title": "黒炎の支配者",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/2023/10/05/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%80%90%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%a1%e3%83%a9%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e9%bb%92/",
+      "postId": "101"
+    },
+    {
+      "id": 6,
+      "title": "レイジングサーフ",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/2023/10/05/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%80%90%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%a1%e3%83%a9%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e3%83%ac/",
+      "postId": "102"
     }
   ]
 }
