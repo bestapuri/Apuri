@@ -2,24 +2,51 @@
   "purchase_comic": [
     {
       "id": 1,
-      "title": "黒炎・151 西新宿",
+      "title": "VStarユニバース",
       "copyright": "2023/09/30 16:45:00",
       "catchcopy": "１box",
-      "thumbnail_url": "https://nikijin.info/2023/10/04/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7-4/"
+      "thumbnail_url": "https://nikijin.info/2023/10/05/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7-6/",
+      "postId": "75"
     },
     {
       "id": 2,
       "title": "バイオレット",
       "copyright": "2023/09/29 16:45:00",
       "catchcopy": "3P",
-      "thumbnail_url": "https://nikijin.info/2023/10/04/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7-3/"
+      "thumbnail_url": "https://nikijin.info/2023/10/04/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7-3/",
+      "postId": "63"
     },
     {
       "id": 3,
       "title": "クレイバースト",
       "copyright": "2023/09/28 11:00:00",
       "catchcopy": "1box",
-      "thumbnail_url": "https://nikijin.info/2023/10/04/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7-2/"
+      "thumbnail_url": "https://nikijin.info/2023/10/04/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7-2/",
+      "postId": "42"
+    },
+    {
+      "id": 4,
+      "title": "ポケモンカード151",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/2023/10/05/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7-5/",
+      "postId": "71"
+    },
+    {
+      "id": 5,
+      "title": "黒炎の支配者",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/2023/10/04/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7-4/",
+      "postId": "70"
+    },
+    {
+      "id": 6,
+      "title": "レイジングサーフ",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/2023/10/04/%e3%80%902023%e5%b9%b410%e6%9c%8805%e6%97%a5%e3%80%91%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89%e5%85%a5%e8%8d%b7/",
+      "postId": "39"
     }
   ]
 }
