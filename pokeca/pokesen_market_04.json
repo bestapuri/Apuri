@@ -1,0 +1,68 @@
+{
+  "fav_comic": [
+    {
+      "id": 1,
+      "title": "VStarユニバース",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/?p=324",
+      "postId": "324"
+    },
+    {
+      "id": 2,
+      "title": "バイオレットex",
+      "copyright": "2023/09/29 16:45:00",
+      "catchcopy": "3P",
+      "thumbnail_url": "https://nikijin.info/?p=328",
+      "postId": "328"
+    },
+    {
+      "id": 3,
+      "title": "クレイバースト",
+      "copyright": "2023/09/28 11:00:00",
+      "catchcopy": "1box",
+      "thumbnail_url": "https://nikijin.info/?p=329",
+      "postId": "329"
+    },
+    {
+      "id": 4,
+      "title": "ポケモンカード151",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/?p=330",
+      "postId": "330"
+    },
+    {
+      "id": 5,
+      "title": "黒炎の支配者",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/?p=331",
+      "postId": "331"
+    },
+    {
+      "id": 6,
+      "title": "レイジングサーフ",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/?p=332",
+      "postId": "332"
+    },
+    {
+      "id": 7,
+      "title": "ポケカ未来の一閃",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/?p=334",
+      "postId": "334"
+    },
+    {
+      "id": 8,
+      "title": "ポケカ古代の咆哮",
+      "copyright": "2023/09/30 16:45:00",
+      "catchcopy": "１box",
+      "thumbnail_url": "https://nikijin.info/?p=335",
+      "postId": "335"
+    }
+  ]
+}
