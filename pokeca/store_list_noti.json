@@ -3,36 +3,36 @@
         {
             "title": "西新宿",
             "catchcopy": "",
-            "isCompleted": 1
+            "isCompleted": true
         },
         {
             "title": "アキバ",
             "catchcopy": "",
-            "isCompleted": 1
+            "isCompleted": true
         }
     ],
     "biccamera": [
         {
             "title": "西新宿",
             "catchcopy": "",
-            "isCompleted": 1
+            "isCompleted": true
         },
         {
             "title": "アキバ",
             "catchcopy": "",
-            "isCompleted": 1
+            "isCompleted": true
         }
     ],
     "items": [
         {
             "title": "VStarユニバース",
             "catchcopy": "",
-            "isCompleted": 1
+            "isCompleted": true
         },
         {
             "title": "VStarユニバース",
             "catchcopy": "",
-            "isCompleted": 1
+            "isCompleted": true
         }
     ]
 }
