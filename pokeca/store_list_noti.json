@@ -2,31 +2,37 @@
     "yodobashi": [
         {
             "title": "西新宿",
-            "catchcopy": ""
+            "catchcopy": "",
+            "isCompleted": 1
         },
         {
             "title": "アキバ",
-            "catchcopy": ""
+            "catchcopy": "",
+            "isCompleted": 1
         }
     ],
     "biccamera": [
         {
             "title": "西新宿",
-            "catchcopy": ""
+            "catchcopy": "",
+            "isCompleted": 1
         },
         {
             "title": "アキバ",
-            "catchcopy": ""
+            "catchcopy": "",
+            "isCompleted": 1
         }
     ],
     "items": [
         {
             "title": "VStarユニバース",
-            "catchcopy": ""
+            "catchcopy": "",
+            "isCompleted": 1
         },
         {
             "title": "VStarユニバース",
-            "catchcopy": ""
+            "catchcopy": "",
+            "isCompleted": 1
         }
     ]
 }
