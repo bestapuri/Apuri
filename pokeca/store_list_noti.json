@@ -1,0 +1,29 @@
+{
+    Yodobashi: [{
+            name: '西新宿',
+            description: '',
+        },
+        {
+            name: 'アキバ',
+            description: '',
+        }
+    ],
+    Biccamera: [{
+            name: '西新宿',
+            description: '',
+        },
+        {
+            name: 'アキバ',
+            description: '',
+        }
+    ],
+    Items: [{
+            name: 'VStarユニバース',
+            description: '',
+        },
+        {
+            name: 'バイオレットex',
+            description: '',
+        }
+    ]
+}
