@@ -1,5 +1,5 @@
 {
-    Yodobashi: [{
+    yodobashi: [{
             name: '西新宿',
             description: '',
         },
@@ -8,7 +8,7 @@
             description: '',
         }
     ],
-    Biccamera: [{
+    biccamera: [{
             name: '西新宿',
             description: '',
         },
@@ -17,7 +17,7 @@
             description: '',
         }
     ],
-    Items: [{
+    items: [{
             name: 'VStarユニバース',
             description: '',
         },
