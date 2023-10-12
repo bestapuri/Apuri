@@ -1,29 +1,32 @@
 {
-    yodobashi: [{
-            name: '西新宿',
-            description: '',
+    "yodobashi": [
+        {
+            "name": "西新宿",
+            "description": ""
         },
         {
-            name: 'アキバ',
-            description: '',
+            "name": "アキバ",
+            "description": ""
         }
     ],
-    biccamera: [{
-            name: '西新宿',
-            description: '',
+    "biccamera": [
+        {
+            "name": "西新宿",
+            "description": ""
         },
         {
-            name: 'アキバ',
-            description: '',
+            "name": "アキバ",
+            "description": ""
         }
     ],
-    items: [{
-            name: 'VStarユニバース',
-            description: '',
+    "items": [
+        {
+            "name": "VStarユニバース",
+            "description": ""
         },
         {
-            name: 'バイオレットex',
-            description: '',
+            "name": "VStarユニバース",
+            "description": ""
         }
     ]
 }
