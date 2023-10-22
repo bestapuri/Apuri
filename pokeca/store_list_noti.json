@@ -1,38 +1,88 @@
 {
     "yodobashi": [
-        {
-            "title": "西新宿",
-            "catchcopy": "",
-            "is_completed": true
-        },
-        {
-            "title": "アキバ",
-            "catchcopy": "",
-            "is_completed": true
-        }
+        {"title":"西新宿"},
+        {"title":"アキバ"}, 
+        {"title":"梅田"}, 
+        {"title":"横浜"}, 
+        {"title":"東新宿"}, 
+        {"title":"札幌"}, 
+        {"title":"仙台"}, 
+        {"title":"新潟"}, 
+        {"title":"郡山"}, 
+        {"title":"宇都宮"},
+        {"title":"新都心"}, 
+        {"title":"上野"}, 
+        {"title":"錦糸町"}, 
+        {"title":"吉祥寺"}, 
+        {"title":"町田"}, 
+        {"title":"上大岡"}, 
+        {"title":"川崎"}, 
+        {"title":"八王子"}, 
+        {"title":"千葉"}, 
+        {"title":"甲府"},
+        {"title":"名古屋"}, 
+        {"title":"京都"}, 
+        {"title":"博多"}
     ],
     "biccamera": [
-        {
-            "title": "西新宿",
-            "catchcopy": "",
-            "is_completed": true
-        },
-        {
-            "title": "アキバ",
-            "catchcopy": "",
-            "is_completed": true
-        }
+        {"title":"高崎東口"}, 
+        {"title":"大宮そごう"}, 
+        {"title":"柏"}, 
+        {"title":"水戸駅"}, 
+        {"title":"調布"}, 
+        {"title":"有楽町"}, 
+        {"title":"ダイバーシティ東京"},
+        {"title":"池袋本店"}, 
+        {"title":"池袋西口"}, 
+        {"title":"アクアシティお台場"}, 
+        {"title":"渋谷ハチ公"}, 
+        {"title":"渋谷"}, 
+        {"title":"聖蹟桜ヶ丘"}, 
+        {"title":"赤坂見附駅"}, 
+        {"title":"立川"}, 
+        {"title":"所沢駅前"}, 
+        {"title":"東京スカイツリー"},
+        {"title":"藤沢"}, 
+        {"title":"相模大野"}, 
+        {"title":"たまプラーザ"}, 
+        {"title":"浜松"}, 
+        {"title":"あべの"}, 
+        {"title":"トイズアリオ八尾"}, 
+        {"title":"なんば"}, 
+        {"title":"高槻阪急"}, 
+        {"title":"岡山駅前"}, 
+        {"title":"広島駅前"},
+        {"title":"天神2号館"}, 
+        {"title":"くまもと"}, 
+        {"title":"鹿児島中央駅"},
+        {"title":"トウキョーDX"}, 
+        {"title":"船橋"}, 
+        {"title":"東京駅"}, 
+        {"title":"札幌"}, 
+        {"title":"心斎橋"}, 
+        {"title":"日本橋"}, 
+        {"title":"新越谷"}, 
+        {"title":"西新宿"}, 
+        {"title":"東新宿"}, 
+        {"title":"札幌"}
     ],
-    "items": [
-        {
-            "title": "VStarユニバース",
-            "catchcopy": "",
-            "is_completed": true
-        },
-        {
-            "title": "VStarユニバース",
-            "catchcopy": "",
-            "is_completed": true
-        }
+    "pokesen": [
+        {"title":"札幌"}, 
+        {"title":"仙台"}, 
+        {"title":"金沢"}, 
+        {"title":"池袋"}, 
+        {"title":"渋谷"}, 
+        {"title":"日本橋"}, 
+        {"title":"東京駅"}, 
+        {"title":"船橋"}, 
+        {"title":"スカイ"}, 
+        {"title":"横浜"},
+        {"title":"名古屋"}, 
+        {"title":"京都"}, 
+        {"title":"心斎橋"}, 
+        {"title":"梅田"}, 
+        {"title":"広島"}, 
+        {"title":"福岡"}, 
+        {"title":"沖縄"}
     ]
 }
