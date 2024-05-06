@@ -1,0 +1,40 @@
+[
+  
+  {
+    "title": "JLPT-Kanji Quiz",
+    "appId": "com.app.jlpt.quiz.flashcard",
+    "url": "https://play.google.com/store/apps/details?id=com.app.jlpt.quiz.flashcard",
+    "icon": "https://play-lh.googleusercontent.com/a1tyaU70J9LAfpJ2VLqmaEbXno6rcusxD5ZYJs6vPyB22ggyF9d-EZUUaEYwwizV2GOO",
+    "developer": "Smart Games for Kids",
+    "currency": "USD",
+    
+    
+    "summary": "If you who always search and learn a quiz app like these, this app is for you<br><br>1. JLPT Flash card app.<br>2. JLPT Quiz app.<br>3. JLPT Minna nihongo app.<br>4. JLPT N3, N4, N5.<br>5. JLPT Question app.<br>6. Guess the Kanji app.<br><br>Main Features:<br>・Breaking up the content of the JLPT: makes practice more interesting and less boring.<br>・Flashcard for JLPT N3, N4, N5 <br>・Learn by Quiz JLPT N3, N4, N5",
+    "scoreText": "",
+    "score": ""
+  },
+  {
+    "title": "Flashcard Japanese beginner",
+    "appId": "com.app.flashcard.beginner.japanese",
+    "url": "https://play.google.com/store/apps/details?id=com.app.flashcard.beginner.japanese",
+    "icon": "https://play-lh.googleusercontent.com/qfc6G9nLfJaVOsK49iQk5SZfGDxu_0s1nBKJBVT8rHBjSYBkv0TC41Kn5HXXIEB-KQ",
+    "developer": "Smart Games for Kids",
+    "currency": "USD",
+    
+    
+    "summary": "Flashcards is an easy to use flashcard app which you can use to start study Japanese<br><br>Features:<br><br>• Several flashcard themes to choose from (animals, tree, fruits, etc.)<br>• Divide cards into categories<br>• Include pictures and sounds.<br>• Easy navigation - swipe or tap to next/back<br>• Very easy to get started<br>• Great support! I promptly respond to any questions or feedback you may have. Use my website&#39;s public forum or email me.",
+    "scoreText": "",
+    "score": ""
+  },
+  {
+    "title": "Easy Korean - Flashcard Quiz",
+    "appId": "com.app.learning.quiz.flashcard.kr",
+    "url": "https://play.google.com/store/apps/details?id=com.app.learning.quiz.flashcard.kr",
+    "icon": "https://play-lh.googleusercontent.com/zC-Jw50MusCbb6RNw3OgvWG4yvo6hbrmKo8-CTbY2xocd6zch4IQ_UaXdcKrVRMy2nfa",
+    "developer": "Smart Games for Kids",
+    "currency": "USD",
+    "summary": "Korean for beginner with many categories<br><br>If you who always search and learn a quiz app like these, this app is for you<br><br>1. Korean Flash card app.<br>2. Korean Quiz app.<br>3. Easy Korean Learning app.<br>4. Learn Korean.<br>5. Korean Question app.<br>6. Guess the Korean Word app.<br><br>Main Features:<br>・Breaking up the content of the category: makes practice more interesting and less boring.<br>・Flashcard for all vocabulary<br>・Learn by Quiz all daily words",
+    "scoreText": "",
+    "score": ""
+  }
+]
