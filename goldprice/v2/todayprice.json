@@ -2,25 +2,25 @@
   {
     "id": 1,
     "title": "金",
-    "copyright": "14,787円",
-    "yesterday": "14,650円",
-    "benefit": "-46円",
+    "copyright": "14,787",
+    "yesterday": "14,650",
+    "benefit": "-46",
     "catchcopy": "JPY/g"
   },
   {
     "id": 3,
     "title": "白金",
-    "copyright": "177.54円",
-    "yesterday": "171.71円",
-    "benefit": "-1.65円",
+    "copyright": "177.54",
+    "yesterday": "171.71",
+    "benefit": "-1.65",
     "catchcopy": "JPY/g"
   },
   {
     "id": 2,
     "title": "銀",
-    "copyright": "5,373円",
-    "yesterday": "5,198円",
-    "benefit": "-51円",
+    "copyright": "5,373",
+    "yesterday": "5,198",
+    "benefit": "-51",
     "catchcopy": "JPY/g"
   }
 ]
