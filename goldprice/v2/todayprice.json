@@ -10,17 +10,17 @@
   {
     "id": 3,
     "title": "白金",
-    "copywright": "5,198円",
-    "yesterday": "177.54円",
-    "benefit": "-51円",
+    "copywright": "177.54円",
+    "yesterday": "171.71円",
+    "benefit": "-1.65円",
     "catchcopy": "JPY/g"
   },
   {
     "id": 2,
     "title": "銀",
-    "copywright": "-46円",
-    "yesterday": "-51円",
-    "benefit": "5,373円",
+    "copywright": "5,373円",
+    "yesterday": "5,198円",
+    "benefit": "-51円",
     "catchcopy": "JPY/g"
   }
 ]
