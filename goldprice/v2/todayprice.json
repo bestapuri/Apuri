@@ -1,4 +1,20 @@
-{
-  "key": "new value",
-  "anotherKey": 42
-}
+[
+  {
+    "id": 1,
+    "title": "金",
+    "copywright": "9,555円",
+    "catchcopy": "JPY/g"
+  },
+  {
+    "id": 3,
+    "title": "白金",
+    "copywright": "9,255円",
+    "catchcopy": "JPY/g"
+  },
+  {
+    "id": 2,
+    "title": "銀",
+    "copywright": "+55円",
+    "catchcopy": "JPY/g"
+  }
+]
