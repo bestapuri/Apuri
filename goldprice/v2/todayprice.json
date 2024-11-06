@@ -5,7 +5,7 @@
       "title": "金",
       "copyright": "14787",
       "yesterday": "14,650円",
-      "expirationDateText": "-46円",
+      "expiration_date_text": "-46円",
       "catchcopy": "JPY/g"
     },
     {
@@ -13,7 +13,7 @@
       "title": "白金",
       "copyright": "177.54",
       "yesterday": "171.71円",
-      "expirationDateText": "-1.65円",
+      "expiration_date_text": "-1.65円",
       "catchcopy": "JPY/g"
     },
     {
@@ -21,7 +21,7 @@
       "title": "銀",
       "copyright": "5373",
       "yesterday": "5,198円",
-      "expirationDateText": "-51円",
+      "expiration_date_text": "-51円",
       "catchcopy": "JPY/g"
     }
   ]
