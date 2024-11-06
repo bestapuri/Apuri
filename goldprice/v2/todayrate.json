@@ -1,0 +1,36 @@
+{
+  "purchase_comic": [
+    {
+      "id": 1,
+      "title": "USD",
+      "copyright": "153.8",
+      "expiration_date": "151.8",
+      "expiration_date_text": "152.8",
+      "catchcopy": "米ドル"
+    },
+    {
+      "id": 2,
+      "title": "GBP",
+      "copyright": "202",
+      "expiration_date": "194",
+      "expiration_date_text": "198.12",
+      "catchcopy": "英ポンド"
+    },
+    {
+      "id": 3,
+      "title": "EUR",
+      "copyright": "167.8",
+      "expiration_date": "164.8",
+      "expiration_date_text": "165.8",
+      "catchcopy": "ユーロ"
+    },
+    {
+      "id": 4,
+      "title": "CAD",
+      "copyright": "111.8",
+      "expiration_date": "108.8",
+      "expiration_date_text": "110.8",
+      "catchcopy": "カナダドル"
+    }
+  ]
+}
