@@ -9,7 +9,7 @@
       "catchcopy": "JPY/g"
     },
     {
-      "id": 3,
+      "id": 2,
       "title": "銀",
       "copyright": "177.54",
       "yesterday": "171.71円",
@@ -17,12 +17,13 @@
       "catchcopy": "JPY/g"
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "白金",
       "copyright": "5373",
       "yesterday": "5,198円",
       "expiration_date_text": "-51円",
       "catchcopy": "JPY/g"
-    }
+    },
+    
   ]
 }
