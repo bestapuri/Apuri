@@ -1,0 +1,47 @@
+{
+  "purchase_comic": [
+    {
+      "id": 1,
+      "title": "JP225",
+      "copyright": "11,495,702円",
+      "expiration_date": "+0.02%",
+      "catchcopy": "日経225"
+    },
+    {
+      "id": 2,
+      "title": "CHINA50",
+      "copyright": "431,544円",
+      "expiration_date": "+6.08%",
+      "catchcopy": "中国50"
+    },
+    {
+      "id": 3,
+      "title": "HK50",
+      "copyright": "83.65円",
+      "expiration_date": "+1.99%",
+      "catchcopy": "香港50"
+    },
+    {
+      "id": 4,
+      "title": "US500",
+      "copyright": "83.65円",
+      "expiration_date": "+1.99%",
+      "catchcopy": "米国500"
+    },
+    {
+      "id": 5,
+      "title": "GER30",
+      "copyright": "83.65円",
+      "expiration_date": "+1.99%",
+      "catchcopy": "ドイツ30"
+    },
+    {
+      "id": 6,
+      "title": "UK100",
+      "copyright": "83.65円",
+      "expiration_date": "+1.99%",
+      "catchcopy": "イギリス100"
+    }
+    
+  ]
+}
