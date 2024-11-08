@@ -1,0 +1,9 @@
+{
+   "id": 7,
+    "title": "BTC",
+    "copyright": "10700",
+    "catchcopy": "JPY/g",
+  "thumbnail_url": "https://github.com/bestapuri/Apuri/blob/main/goldprice/v2/chart/btc_1D.png?raw=true",
+  "expiration_date": "https://github.com/bestapuri/Apuri/blob/main/goldprice/v2/chart/btc_1M.png?raw=true",
+  "expiration_date_text": "https://github.com/bestapuri/Apuri/blob/main/goldprice/v2/chart/btc_1Y.png?raw=true"
+}
