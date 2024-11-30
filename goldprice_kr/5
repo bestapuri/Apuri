@@ -1,0 +1,9 @@
+{
+   "id": 5,
+    "title": "Silver",
+    "copyright": "200",
+    "catchcopy": "USD/g",
+  "thumbnail_url": "https://goldprice.org/charts/silver_1d_k_USD_z.png",
+  "expiration_date": "https://goldprice.org/charts/silver_30_day_k_x_usd.png",
+  "expiration_date_text": "https://goldprice.org/charts/silver_1_year_k_x_usd.png"
+}
