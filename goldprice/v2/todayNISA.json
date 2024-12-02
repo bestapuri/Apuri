@@ -3,36 +3,36 @@
     {
       "id": 2,
       "title": "NKY",
-      "copyright": "38,208.03",
-      "expiration_date": "-0.37%",
+      "copyright": "38,220.01",
+      "expiration_date": "+0.03%",
       "catchcopy": "日経平均株価"
     },
     {
       "id": 3,
       "title": "TPX",
-      "copyright": "2,680.71",
-      "expiration_date": "-0.24%",
+      "copyright": "2,698.86",
+      "expiration_date": "+0.68%",
       "catchcopy": "TOPIX(東証株価指数)"
     },
     {
       "id": 4,
       "title": "HSI",
-      "copyright": "19,423.61",
-      "expiration_date": "+0.29%",
+      "copyright": "19,464.24",
+      "expiration_date": "+0.21%",
       "catchcopy": "香港ﾊﾝｾﾝ指数"
     },
     {
       "id": 5,
       "title": "SHSZ300",
-      "copyright": "3,916.58",
-      "expiration_date": "+1.14%",
+      "copyright": "3,931.32",
+      "expiration_date": "+0.38%",
       "catchcopy": "上海/ｼﾝｾﾝCSI300指数"
     },
     {
       "id": 6,
       "title": "AS51",
-      "copyright": "8,436.23",
-      "expiration_date": "-0.10%",
+      "copyright": "8,444.10",
+      "expiration_date": "+0.09%",
       "catchcopy": "S&P/ASX200指数"
     },
     {
