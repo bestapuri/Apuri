@@ -3,113 +3,113 @@
     {
       "id": 2,
       "title": "NKY",
-      "copyright": "39,409.05",
-      "expiration_date": "+1.14%",
+      "copyright": "39,309.75",
+      "expiration_date": "-0.38%",
       "catchcopy": "日経平均株価"
     },
     {
       "id": 3,
       "title": "TPX",
-      "copyright": "2,760.31",
-      "expiration_date": "+0.99%",
+      "copyright": "2,767.27",
+      "expiration_date": "+0.06%",
       "catchcopy": "TOPIX(東証株価指数)"
     },
     {
       "id": 4,
       "title": "HSI",
-      "copyright": "21,857.92",
-      "expiration_date": "+2.64%",
+      "copyright": "21,814.37",
+      "expiration_date": "-0.20%",
       "catchcopy": "香港ﾊﾝｾﾝ指数"
     },
     {
       "id": 5,
       "title": "SHSZ300",
-      "copyright": "3,919.86",
-      "expiration_date": "+0.95%",
+      "copyright": "3,905.14",
+      "expiration_date": "-0.38%",
       "catchcopy": "上海/ｼﾝｾﾝCSI300指数"
     },
     {
       "id": 6,
       "title": "AS51",
-      "copyright": "8,559.40",
-      "expiration_date": "+0.28%",
+      "copyright": "8,569.80",
+      "expiration_date": "+0.35%",
       "catchcopy": "S&P/ASX200指数"
     },
     {
       "id": 7,
       "title": "MXAP",
-      "copyright": "184.80",
-      "expiration_date": "+0.17%",
+      "copyright": "186.37",
+      "expiration_date": "+0.85%",
       "catchcopy": "MSCIACｱｼﾞｱ太平洋ｲﾝﾃﾞｯｸｽ"
     },
     {
       "id": 9,
       "title": "INDU",
-      "copyright": "44,368.56",
-      "expiration_date": "-0.50%",
+      "copyright": "44,711.43",
+      "expiration_date": "+0.77%",
       "catchcopy": "NYﾀﾞｳ工業株30種"
     },
     {
       "id": 10,
       "title": "SPX",
-      "copyright": "6,051.97",
-      "expiration_date": "-0.27%",
+      "copyright": "6,115.07",
+      "expiration_date": "+1.04%",
       "catchcopy": "S&P500種"
     },
     {
       "id": 11,
       "title": "CCMP",
-      "copyright": "19,649.95",
-      "expiration_date": "+0.03%",
+      "copyright": "19,945.64",
+      "expiration_date": "+1.50%",
       "catchcopy": "ﾅｽﾀﾞｯｸ総合指数"
     },
     {
       "id": 12,
       "title": "NYA",
-      "copyright": "20,062.31",
-      "expiration_date": "-0.53%",
+      "copyright": "20,181.29",
+      "expiration_date": "+0.59%",
       "catchcopy": "NYSE総合指数"
     },
     {
       "id": 13,
       "title": "SPTSX",
-      "copyright": "25,563.11",
-      "expiration_date": "-0.27%",
+      "copyright": "25,698.52",
+      "expiration_date": "+0.53%",
       "catchcopy": "S&Pﾄﾛﾝﾄ総合指数"
     },
     {
       "id": 15,
       "title": "SX5E",
-      "copyright": "5,405.65",
-      "expiration_date": "+0.27%",
+      "copyright": "5,500.50",
+      "expiration_date": "+1.75%",
       "catchcopy": "ﾕｰﾛ･ｽﾄｯｸｽ50指数"
     },
     {
       "id": 16,
       "title": "UKX",
-      "copyright": "8,807.44",
-      "expiration_date": "+0.34%",
+      "copyright": "8,764.72",
+      "expiration_date": "-0.49%",
       "catchcopy": "FTSE100指数"
     },
     {
       "id": 17,
       "title": "DAX",
-      "copyright": "22,148.03",
-      "expiration_date": "+0.50%",
+      "copyright": "22,612.02",
+      "expiration_date": "+2.09%",
       "catchcopy": "ﾄﾞｲﾂDAX指数"
     },
     {
       "id": 18,
       "title": "CAC",
-      "copyright": "8,042.19",
-      "expiration_date": "+0.17%",
+      "copyright": "8,164.11",
+      "expiration_date": "+1.52%",
       "catchcopy": "CAC40指数"
     },
     {
       "id": 19,
       "title": "IBEX",
-      "copyright": "12,911.50",
-      "expiration_date": "+1.07%",
+      "copyright": "12,936.30",
+      "expiration_date": "+0.19%",
       "catchcopy": "ｽﾍﾟｲﾝIBEX35指数"
     }
   ]
