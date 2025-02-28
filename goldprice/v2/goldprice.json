@@ -1,0 +1,25 @@
+[{
+    "id": "gold",
+    "symbol": "GOLD",
+    "name": "Gold",
+    "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+    "current_price": 122639771,
+    "price_change_24h": 186368
+},
+{
+    "id": "silver",
+    "symbol": "SILVER",
+    "name": "Silver",
+    "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+    "current_price": 1234,
+    "price_change_24h": 12
+},
+{
+    "id": "Platinum",
+    "symbol": "PLATINUM",
+    "name": "Platinum",
+    "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+    "current_price": 1111,
+    "price_change_24h": 11
+}
+]
