@@ -1,6 +1,6 @@
 [{
     "id": "Gold",
-    "symbol": "KRW/g",
+    "symbol": "₩/g",
     "name": "금",
     "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
     "current_price": 120380,
