@@ -1,5 +1,5 @@
 [{
-    "id": "Gold",
+    "id": "TVC:GOLD",
     "symbol": "₩/g",
     "name": "금",
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/goldicon.png",
@@ -26,7 +26,7 @@
     "roi": null,
     "last_updated": "2025-02-28T17:19:03.219Z"
 }, {
-    "id": "silver",
+    "id": "TVC:SILVER",
     "symbol": "₩/g",
     "name": "은",
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/silvericon.png",
@@ -57,7 +57,7 @@
     },
     "last_updated": "2025-02-28T17:18:59.016Z"
 }, {
-    "id": "Platinum",
+    "id": "TVC:PLATINUM",
     "symbol": "₩/g",
     "name": "백금",
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/platinumicon.png",
