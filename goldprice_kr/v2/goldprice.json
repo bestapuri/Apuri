@@ -1,9 +1,15 @@
 [{
-    "id": "gold",
+    "id": "bitcoin",
     "symbol": "btc",
-    "name": "Gold",
+    "name": "Bitcoin",
     "image": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
     "current_price": 122639771,
+    "market_cap": 2432095691946117,
+    "market_cap_rank": 1,
+    "fully_diluted_valuation": 2432095691946117,
+    "total_volume": 126451775986813,
+    "high_24h": 123643399,
+    "low_24h": 114485416,
     "price_change_24h": 186368,
     "price_change_percentage_24h": 0.1522,
     "market_cap_change_24h": 5337321346897,
@@ -20,9 +26,9 @@
     "roi": null,
     "last_updated": "2025-02-28T17:19:03.219Z"
 }, {
-    "id": "silver",
-    "symbol": "silver",
-    "name": "silver",
+    "id": "ethereum",
+    "symbol": "eth",
+    "name": "Ethereum",
     "image": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
     "current_price": 3250580,
     "market_cap": 391629496931752,
@@ -51,9 +57,9 @@
     },
     "last_updated": "2025-02-28T17:18:59.016Z"
 }, {
-    "id": "Platinum",
-    "symbol": "Platinum",
-    "name": "Platinum",
+    "id": "tether",
+    "symbol": "usdt",
+    "name": "Tether",
     "image": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
     "current_price": 1458.31,
     "market_cap": 207362383850273,
