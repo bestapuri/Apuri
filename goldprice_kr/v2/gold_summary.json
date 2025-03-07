@@ -1,6 +1,6 @@
 [
     {
-        "id": "nation",
+        "id": "korean",
         "detail": [
             {
                 "type": "금 24K",
@@ -19,13 +19,13 @@
         "detail": [
             {
                 "type": "금 24K",
-                "buy_price": "75000₩",
-                "sell_price": "55000₩"
+                "buy_price": "76000₩",
+                "sell_price": "56000₩"
             },
             {
                 "type": "금 18K",
-                "buy_price": "55000₩",
-                "sell_price": "35000₩"
+                "buy_price": "56000₩",
+                "sell_price": "36000₩"
             }
         ]
     },
@@ -34,13 +34,43 @@
         "detail": [
             {
                 "type": "금 24K",
-                "buy_price": "75000₩",
-                "sell_price": "55000₩"
+                "buy_price": "75500₩",
+                "sell_price": "55500₩"
             },
             {
                 "type": "금 18K",
-                "buy_price": "55000₩",
-                "sell_price": "35000₩"
+                "buy_price": "55500₩",
+                "sell_price": "35500₩"
+            }
+        ]
+    },
+    {
+        "id": "incheon",
+        "detail": [
+            {
+                "type": "금 24K",
+                "buy_price": "75200₩",
+                "sell_price": "55200₩"
+            },
+            {
+                "type": "금 18K",
+                "buy_price": "55200₩",
+                "sell_price": "35200₩"
+            }
+        ]
+    },
+    {
+        "id": "daegu",
+        "detail": [
+            {
+                "type": "금 24K",
+                "buy_price": "74800₩",
+                "sell_price": "54800₩"
+            },
+            {
+                "type": "금 18K",
+                "buy_price": "54800₩",
+                "sell_price": "34800₩"
             }
         ]
     }
