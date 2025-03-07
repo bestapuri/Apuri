@@ -1,34 +1,47 @@
-[{
-    "id": "nation",
-    "detail":[{
-        "type": "금 24K",
-        "buy_price": "75000₩",
-        "sell_price": "55000₩"
+[
+    {
+        "id": "nation",
+        "detail": [
+            {
+                "type": "금 24K",
+                "buy_price": "75000₩",
+                "sell_price": "55000₩"
+            },
+            {
+                "type": "금 18K",
+                "buy_price": "55000₩",
+                "sell_price": "35000₩"
+            }
+        ]
     },
-        "type": "금 18K",
-        "buy_price": "55000₩",
-        "sell_price": "35000₩"
-    ]
-}, {
-    "id": "seoul",
-    "detail":[{
-        "type": "금 24K",
-        "buy_price": "75000₩",
-        "sell_price": "55000₩"
+    {
+        "id": "seoul",
+        "detail": [
+            {
+                "type": "금 24K",
+                "buy_price": "75000₩",
+                "sell_price": "55000₩"
+            },
+            {
+                "type": "금 18K",
+                "buy_price": "55000₩",
+                "sell_price": "35000₩"
+            }
+        ]
     },
-        "type": "금 18K",
-        "buy_price": "55000₩",
-        "sell_price": "35000₩"
-    ]
-}, {
-    "id": "busan",
-    "detail":[{
-        "type": "금 24K",
-        "buy_price": "75000₩",
-        "sell_price": "55000₩"
-    },
-        "type": "금 18K",
-        "buy_price": "55000₩",
-        "sell_price": "35000₩"
-    ]
-}]
+    {
+        "id": "busan",
+        "detail": [
+            {
+                "type": "금 24K",
+                "buy_price": "75000₩",
+                "sell_price": "55000₩"
+            },
+            {
+                "type": "금 18K",
+                "buy_price": "55000₩",
+                "sell_price": "35000₩"
+            }
+        ]
+    }
+]
