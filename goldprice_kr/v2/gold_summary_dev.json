@@ -1,153 +1,152 @@
 [
-    {
-        "type": "금 24K",
-        "buy_price": "139369₩",
-        "sell_price": "135842₩"
-    },
-    {
-        "type": "금 18K",
-        "buy_price": "100100₩",
-        "sell_price": "95050₩"
-    },
-    {
-        "type": "금 24K",
-        "buy_price": "139369₩",
-        "sell_price": "135842₩"
-    },
-    {
-        "type": "금 18K",
-        "buy_price": "100100₩",
-        "sell_price": "95050₩"
-    },
-    {
-        "type": "금 24K",
-        "buy_price": "139369₩",
-        "sell_price": "135842₩"
-    },
-    {
-        "type": "금 18K",
-        "buy_price": "100100₩",
-        "sell_price": "95050₩"
-    },
-    {
-        "type": "금 24K",
-        "buy_price": "139369₩",
-        "sell_price": "135842₩"
-    },
-    {
-        "type": "금 18K",
-        "buy_price": "100100₩",
-        "sell_price": "95050₩"
-    },
-    {
-        "type": "금 24K",
-        "buy_price": "139369₩",
-        "sell_price": "135842₩"
-    },
-    {
-        "type": "금 18K",
-        "buy_price": "100100₩",
-        "sell_price": "95050₩"
-    },
-    {
-        "type": "은 24K",
-        "buy_price": "1598₩",
-        "sell_price": "1500₩"
-    },
-    {
-        "type": "은 18K",
-        "buy_price": "1150₩",
-        "sell_price": "1080₩"
-    },
-    {
-        "type": "은 24K",
-        "buy_price": "1598₩",
-        "sell_price": "1500₩"
-    },
-    {
-        "type": "은 18K",
-        "buy_price": "1150₩",
-        "sell_price": "1080₩"
-    },
-    {
-        "type": "은 24K",
-        "buy_price": "1598₩",
-        "sell_price": "1500₩"
-    },
-    {
-        "type": "은 18K",
-        "buy_price": "1150₩",
-        "sell_price": "1080₩"
-    },
-    {
-        "type": "은 24K",
-        "buy_price": "1598₩",
-        "sell_price": "1500₩"
-    },
-    {
-        "type": "은 18K",
-        "buy_price": "1150₩",
-        "sell_price": "1080₩"
-    },
-    {
-        "type": "은 24K",
-        "buy_price": "1598₩",
-        "sell_price": "1500₩"
-    },
-    {
-        "type": "은 18K",
-        "buy_price": "1150₩",
-        "sell_price": "1080₩"
-    },
-    {
-        "type": "백금 24K",
-        "buy_price": "47800₩",
-        "sell_price": "44786₩"
-    },
-    {
-        "type": "백금 18K",
-        "buy_price": "34416₩",
-        "sell_price": "35000₩"
-    },
-    {
-        "type": "백금 24K",
-        "buy_price": "47800₩",
-        "sell_price": "44786₩"
-    },
-    {
-        "type": "백금 18K",
-        "buy_price": "34416₩",
-        "sell_price": "34000₩"
-    },
-    {
-        "type": "백금 24K",
-        "buy_price": "47800₩",
-        "sell_price": "44786₩"
-    },
-    {
-        "type": "백금 18K",
-        "buy_price": "34416₩",
-        "sell_price": "34000₩"
-    },
-    {
-        "type": "백금 24K",
-        "buy_price": "47800₩",
-        "sell_price": "44786₩"
-    },
-    {
-        "type": "백금 18K",
-        "buy_price": "34416₩",
-        "sell_price": "34000₩"
-    },
-    {
-        "type": "백금 24K",
-        "buy_price": "47800₩",
-        "sell_price": "44786₩"
-    },
-    {
-        "type": "백금 18K",
-        "buy_price": "34416₩",
-        "sell_price": "34000₩"
-    }
-    
+  {
+    "type": "금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "은 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 24K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  },
+  {
+    "type": "백금 18K",
+    "buy_price": 137722.1,
+    "sell_price": 134994.94
+  }
 ]
