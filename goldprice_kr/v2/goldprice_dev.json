@@ -4,33 +4,26 @@
     "symbol": "₩/g",
     "name": "금",
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/goldicon.png",
-    "current_price": {
-      "won1": "140,533",
-      "gapUp": "267"
-    },
-    "price_change_24h": {
-      "won1": "1,621",
-      "gapUp": "11"
-    },
-    "price_change_percentage_24h": {
-      "won1": "1,621",
-      "gapUp": "11"
-    }
+    "current_price": "140,533",
+    "price_change_24h": "267",
+    "price_change_percentage_24h": "267"
   },
   {
     "id": "TVC:SILVER",
     "symbol": "₩/g",
     "name": "은",
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/silvericon.png",
-    "current_price": {
-      "won1": "47,733",
-      "gapUp": "533"
-    }
+    "current_price": "1,621",
+    "price_change_24h": "11",
+    "price_change_percentage_24h": "11"
   },
   {
     "id": "TVC:PLATINUM",
     "symbol": "₩/g",
     "name": "백금",
-    "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/platinumicon.png"
+    "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/platinumicon.png",
+    "current_price": "47,733",
+    "price_change_24h": "533",
+    "price_change_percentage_24h": "533"
   }
 ]
