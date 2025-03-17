@@ -6,7 +6,7 @@
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/goldicon.png",
     "current_price": 144400,
     "price_change_24h": -133,
-    "price_change_percentage_24h": -133
+    "price_change_percentage_24h": 0
   },
   {
     "id": "TVC:SILVER",
@@ -15,7 +15,7 @@
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/silvericon.png",
     "current_price": 1693,
     "price_change_24h": -3,
-    "price_change_percentage_24h": -3
+    "price_change_percentage_24h": 0
   },
   {
     "id": "TVC:PLATINUM",
