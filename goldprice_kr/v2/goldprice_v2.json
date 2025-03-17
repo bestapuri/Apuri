@@ -23,7 +23,7 @@
     "name": "백금",
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/platinumicon.png",
     "current_price": 49066,
-    "price_change_24h": null,
-    "price_change_percentage_24h": null
+    "price_change_24h": 0,
+    "price_change_percentage_24h": 0
   }
 ]
