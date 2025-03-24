@@ -1,109 +1,355 @@
 {
-  "purchase_comic": [
-    {
-      "id": 1,
-      "title": "VStarユニバース",
-      "copyright": "2022/12/02 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 2,
-      "title": "バイオレット",
-      "copyright": "2023/01/20 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 3,
-      "title": "クレイバースト",
-      "copyright": "2023/04/14 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 4,
-      "title": "ポケモンカード151",
-      "copyright": "2023/06/16 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 5,
-      "title": "黒炎の支配者",
-      "copyright": "2023/07/28 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 6,
-      "title": "レイジングサーフ",
-      "copyright": "2023/09/22 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 7,
-      "title": "ポケカ未来の一閃",
-      "copyright": "2023/10/27 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 8,
-      "title": "ポケカ古代の咆哮",
-      "copyright": "2023/10/27 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 9,
-      "title": "シャイニートレジャー",
-      "copyright": "2023/12/01 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 10,
-      "title": "サイバージャッジ",
-      "copyright": "2024/01/26 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    },
-    {
-      "id": 11,
-      "title": "ナイトワンダラー",
-      "copyright": "2024/06/07 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=246",
-      "postId": "246"
-    },
-    
-    {
-      "id": 12,
-      "title": "ステラミラクル",
-      "copyright": "2024/07/19 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=322",
-      "postId": "322"
-    },
-    {
-      "id": 13,
-      "title": "定価購入と抽選情報",
-      "copyright": "2024/06/04 10:00:00",
-      "catchcopy": "1Box",
-      "thumbnail_url": "https://nowpokeca.com/?p=219",
-      "postId": "219"
-    }
-  ]
+    "products": [{
+            "id": 44,
+            "title": "ロケット団の栄光",
+            "type": "拡張パック",
+            "release_date": "2025年04月18日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 43,
+            "title": "熱風のアリーナ",
+            "type": "強化拡張パック",
+            "release_date": "2025年03月14日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 42,
+            "title": "バトルパートナーズ",
+            "type": "拡張パック",
+            "release_date": "2025年01月24日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 41,
+            "title": "テラスタルフェスex",
+            "type": "ハイクラスパック",
+            "release_date": "2024年12月06日(金)",
+            "price": "550円(税込)",
+            "content": "カード10枚入り(ランダム)"
+        },
+        {
+            "id": 40,
+            "title": "超電ブレイカー",
+            "type": "拡張パック",
+            "release_date": "2024年10月18日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 39,
+            "title": "楽園ドラゴーナ",
+            "type": "強化拡張パック",
+            "release_date": "2024年09月13日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 38,
+            "title": "ステラミラクル",
+            "type": "拡張パック",
+            "release_date": "2024年07月19日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 37,
+            "title": "ナイトワンダラー",
+            "type": "強化拡張パック",
+            "release_date": "2024年06月07日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 36,
+            "title": "変幻の仮面",
+            "type": "拡張パック",
+            "release_date": "2024年04月26日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 35,
+            "title": "クリムゾンヘイズ",
+            "type": "強化拡張パック",
+            "release_date": "2024年03月22日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 34,
+            "title": "ワイルドフォース",
+            "type": "拡張パック",
+            "release_date": "2024年01月26日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 33,
+            "title": "サイバージャッジ",
+            "type": "拡張パック",
+            "release_date": "2024年01月26日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 32,
+            "title": "シャイニートレジャー",
+            "type": "ハイクラスパック",
+            "release_date": "2023年12月01日(金)",
+            "price": "550円(税込)",
+            "content": "カード10枚入り(ランダム)"
+        },
+        {
+            "id": 31,
+            "title": "古代の咆哮",
+            "type": "拡張パック",
+            "release_date": "2023年10月27日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 30,
+            "title": "未来の一閃",
+            "type": "拡張パック",
+            "release_date": "2023年10月27日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 29,
+            "title": "レイジングサーフ",
+            "type": "強化拡張パック",
+            "release_date": "2023年09月22日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 28,
+            "title": "黒炎の支配者",
+            "type": "拡張パック",
+            "release_date": "2023年07月28日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 27,
+            "title": "ポケモンカード151",
+            "type": "強化拡張パック",
+            "release_date": "2023年06月16日(金)",
+            "price": "290円(税込)",
+            "content": "カード7枚入り(ランダム)"
+        },
+        {
+            "id": 26,
+            "title": "スノーハザード",
+            "type": "拡張パック",
+            "release_date": "2023年04月14日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 25,
+            "title": "クレイバースト",
+            "type": "拡張パック",
+            "release_date": "2023年04月14日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 24,
+            "title": "トリプレットビート",
+            "type": "強化拡張パック",
+            "release_date": "2023年03月10日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 23,
+            "title": "バイオレットex",
+            "type": "拡張パック",
+            "release_date": "2023年01月20日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 22,
+            "title": "スカーレットex",
+            "type": "拡張パック",
+            "release_date": "2023年01月20日(金)",
+            "price": "180円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 21,
+            "title": "VSTARユニバース",
+            "type": "ハイクラスパック",
+            "release_date": "2022年12月02日(金)",
+            "price": "550円(税込)",
+            "content": "カード10枚入り(ランダム)"
+        },
+        {
+            "id": 20,
+            "title": "パラダイムトリガー",
+            "type": "拡張パック",
+            "release_date": "2022年10月21日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 19,
+            "title": "白熱のアルカナ",
+            "type": "強化拡張パック",
+            "release_date": "2022年09月02日(金)",
+            "price": "260円(税込)",
+            "content": "カード6枚入り(ランダム)"
+        },
+        {
+            "id": 18,
+            "title": "ロストアビス",
+            "type": "拡張パック",
+            "release_date": "2022年07月15日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 17,
+            "title": "Pokemon GO",
+            "type": "強化拡張パック",
+            "release_date": "2022年06月17日(金)",
+            "price": "260円(税込)",
+            "content": "カード6枚入り(ランダム)"
+        },
+        {
+            "id": 16,
+            "title": "ダークファンタズマ",
+            "type": "強化拡張パック",
+            "release_date": "2022年05月13日(金)",
+            "price": "260円(税込)",
+            "content": "カード6枚入り(ランダム)"
+        },
+        {
+            "id": 15,
+            "title": "スペースジャグラー",
+            "type": "拡張パック",
+            "release_date": "2022年04月08日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 14,
+            "title": "タイムゲイザー",
+            "type": "拡張パック",
+            "release_date": "2022年04月08日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 13,
+            "title": "バトルリージョン",
+            "type": "強化拡張パック",
+            "release_date": "2022年02月25日(金)",
+            "price": "260円(税込)",
+            "content": "カード6枚入り(ランダム)"
+        },
+        {
+            "id": 12,
+            "title": "スターバース",
+            "type": "拡張パック",
+            "release_date": "2022年01月14日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 11,
+            "title": "VMAXクライマックス",
+            "type": "ハイクラスパック",
+            "release_date": "2021年12月03日(金)",
+            "price": "550円(税込)",
+            "content": "カード11枚入り(ランダム)"
+        },
+        {
+            "id": 10,
+            "title": "25thアニコレ",
+            "type": "拡張パック",
+            "release_date": "2021年10月22日(金)",
+            "price": "297円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 9,
+            "title": "フュージョンアーツ",
+            "type": "拡張パック",
+            "release_date": "2021年09月24日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 8,
+            "title": "蒼空ストリーム",
+            "type": "拡張パック",
+            "release_date": "2021年07月09日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 7,
+            "title": "摩天パーフェクト",
+            "type": "拡張パック",
+            "release_date": "2021年07月09日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 6,
+            "title": "イーブイヒーローズ",
+            "type": "強化拡張パック",
+            "release_date": "2021年05月28日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 5,
+            "title": "白銀のランス",
+            "type": "拡張パック",
+            "release_date": "2021年04月23日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 4,
+            "title": "漆黒のガイスト",
+            "type": "拡張パック",
+            "release_date": "2021年04月23日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 3,
+            "title": "双璧のファイター",
+            "type": "拡張パック",
+            "release_date": "2021年03月19日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 2,
+            "title": "一撃マスター",
+            "type": "拡張パック",
+            "release_date": "2021年01月22日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        },
+        {
+            "id": 1,
+            "title": "連撃マスター",
+            "type": "拡張パック",
+            "release_date": "2021年01月22日(金)",
+            "price": "165円(税込)",
+            "content": "カード5枚入り(ランダム)"
+        }
+    ]
 }
