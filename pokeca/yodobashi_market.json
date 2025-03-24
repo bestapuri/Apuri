@@ -1,0 +1,109 @@
+{
+  "purchase_comic": [
+    {
+      "id": 1,
+      "title": "VStarユニバース",
+      "copyright": "2022/12/02 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 2,
+      "title": "バイオレット",
+      "copyright": "2023/01/20 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 3,
+      "title": "クレイバースト",
+      "copyright": "2023/04/14 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 4,
+      "title": "ポケモンカード151",
+      "copyright": "2023/06/16 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 5,
+      "title": "黒炎の支配者",
+      "copyright": "2023/07/28 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 6,
+      "title": "レイジングサーフ",
+      "copyright": "2023/09/22 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 7,
+      "title": "ポケカ未来の一閃",
+      "copyright": "2023/10/27 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 8,
+      "title": "ポケカ古代の咆哮",
+      "copyright": "2023/10/27 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 9,
+      "title": "シャイニートレジャー",
+      "copyright": "2023/12/01 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 10,
+      "title": "サイバージャッジ",
+      "copyright": "2024/01/26 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    },
+    {
+      "id": 11,
+      "title": "ナイトワンダラー",
+      "copyright": "2024/06/07 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=246",
+      "postId": "246"
+    },
+    
+    {
+      "id": 12,
+      "title": "ステラミラクル",
+      "copyright": "2024/07/19 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=322",
+      "postId": "322"
+    },
+    {
+      "id": 13,
+      "title": "定価購入と抽選情報",
+      "copyright": "2024/06/04 10:00:00",
+      "catchcopy": "1Box",
+      "thumbnail_url": "https://nowpokeca.com/?p=219",
+      "postId": "219"
+    }
+  ]
+}
