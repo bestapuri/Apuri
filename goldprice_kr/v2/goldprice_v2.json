@@ -4,16 +4,16 @@
     "symbol": "₩/g",
     "name": "금",
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/goldicon.png",
-    "current_price": 151226,
-    "price_change_24h": 1786,
-    "price_change_percentage_24h": 1786
+    "current_price": 153386,
+    "price_change_24h": 2293,
+    "price_change_percentage_24h": 2293
   },
   {
     "id": "TVC:SILVER",
     "symbol": "₩/g",
     "name": "은",
     "image": "https://raw.githubusercontent.com/bestapuri/Apuri/refs/heads/main/goldprice_kr/v2/silvericon.png",
-    "current_price": 1736,
+    "current_price": 1728,
     "price_change_24h": -8,
     "price_change_percentage_24h": -8
   },
