@@ -1,5 +1,22 @@
 {
-    "products": [{
+    "products": [
+        {
+            "id": 46,
+            "title": "ホワイトフレア",
+            "type": "拡張パック",
+            "release_date": "2025年06月06日",
+            "price": "290円",
+            "content": "カード7枚入り"
+        },
+        {
+            "id": 45,
+            "title": "ブラックボルト",
+            "type": "拡張パック",
+            "release_date": "2025年06月06日",
+            "price": "290円",
+            "content": "カード7枚入り"
+        },
+        {
             "id": 44,
             "title": "ロケット団の栄光",
             "type": "拡張パック",
