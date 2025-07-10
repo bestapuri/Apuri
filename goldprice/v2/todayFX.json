@@ -3,97 +3,97 @@
     {
       "id": 1,
       "title": "USD",
-      "copyright": "147.09",
-      "expiration_date": "145.09",
-      "expiration_date_text": "146.09",
+      "copyright": "147.89",
+      "expiration_date": "145.89",
+      "expiration_date_text": "146.89",
       "catchcopy": "米ドル"
     },
     {
       "id": 2,
       "title": "GBP",
-      "copyright": "203.12",
-      "expiration_date": "195.12",
-      "expiration_date_text": "199.12",
+      "copyright": "203.56",
+      "expiration_date": "195.56",
+      "expiration_date_text": "199.56",
       "catchcopy": "英ポンド"
     },
     {
       "id": 3,
       "title": "EUR",
-      "copyright": "173.02",
-      "expiration_date": "170.02",
-      "expiration_date_text": "171.52",
+      "copyright": "173.71",
+      "expiration_date": "170.71",
+      "expiration_date_text": "172.21",
       "catchcopy": "ユーロ"
     },
     {
       "id": 4,
       "title": "CAD",
-      "copyright": "108.57",
-      "expiration_date": "105.37",
-      "expiration_date_text": "106.97",
+      "copyright": "109.01",
+      "expiration_date": "105.81",
+      "expiration_date_text": "107.41",
       "catchcopy": "カナダドル"
     },
     {
       "id": 5,
       "title": "CHF",
-      "copyright": "184.20",
-      "expiration_date": "182.40",
-      "expiration_date_text": "183.30",
+      "copyright": "185.32",
+      "expiration_date": "183.52",
+      "expiration_date_text": "184.42",
       "catchcopy": "スイスフラン"
     },
     {
       "id": 6,
       "title": "SEK",
-      "copyright": "15.77",
-      "expiration_date": "14.97",
-      "expiration_date_text": "15.37",
+      "copyright": "15.82",
+      "expiration_date": "15.02",
+      "expiration_date_text": "15.42",
       "catchcopy": "スウェーデンクローネ"
     },
     {
       "id": 7,
       "title": "DKK",
-      "copyright": "23.29",
-      "expiration_date": "22.69",
-      "expiration_date_text": "22.99",
+      "copyright": "23.38",
+      "expiration_date": "22.78",
+      "expiration_date_text": "23.08",
       "catchcopy": "デンマーククローネ"
     },
     {
       "id": 8,
       "title": "NOK",
-      "copyright": "14.75",
-      "expiration_date": "14.15",
-      "expiration_date_text": "14.45",
+      "copyright": "14.86",
+      "expiration_date": "14.26",
+      "expiration_date_text": "14.56",
       "catchcopy": "ノルウェークローネ"
     },
     {
       "id": 9,
       "title": "AUD",
-      "copyright": "97.68",
-      "expiration_date": "92.68",
-      "expiration_date_text": "95.18",
+      "copyright": "98.39",
+      "expiration_date": "93.39",
+      "expiration_date_text": "95.89",
       "catchcopy": "オーストラリアドル"
     },
     {
       "id": 10,
       "title": "NZD",
-      "copyright": "90.38",
-      "expiration_date": "85.28",
-      "expiration_date_text": "87.83",
+      "copyright": "90.55",
+      "expiration_date": "85.45",
+      "expiration_date_text": "88.00",
       "catchcopy": "ニュージーランドドル"
     },
     {
       "id": 11,
       "title": "ZAR",
-      "copyright": "10.70",
-      "expiration_date": "5.70",
-      "expiration_date_text": "8.20",
+      "copyright": "10.76",
+      "expiration_date": "5.76",
+      "expiration_date_text": "8.26",
       "catchcopy": "南アフリカランド"
     },
     {
       "id": 12,
       "title": "BHD",
-      "copyright": "395.71",
-      "expiration_date": "379.71",
-      "expiration_date_text": "387.71",
+      "copyright": "397.73",
+      "expiration_date": "381.73",
+      "expiration_date_text": "389.73",
       "catchcopy": "バーレーンディナール"
     },
     {
@@ -107,25 +107,25 @@
     {
       "id": 14,
       "title": "CNY",
-      "copyright": "20.66",
-      "expiration_date": "20.06",
-      "expiration_date_text": "20.36",
+      "copyright": "20.75",
+      "expiration_date": "20.15",
+      "expiration_date_text": "20.45",
       "catchcopy": "中国人民元"
     },
     {
       "id": 15,
       "title": "HKD",
-      "copyright": "19.04",
-      "expiration_date": "18.18",
-      "expiration_date_text": "18.61",
+      "copyright": "19.14",
+      "expiration_date": "18.28",
+      "expiration_date_text": "18.71",
       "catchcopy": "香港ドル"
     },
     {
       "id": 16,
       "title": "INR",
-      "copyright": "2.07",
+      "copyright": "2.08",
       "expiration_date": "*****",
-      "expiration_date_text": "1.70",
+      "expiration_date_text": "1.71",
       "catchcopy": "インドルピー"
     },
     {
@@ -139,17 +139,17 @@
     {
       "id": 18,
       "title": "PHP",
-      "copyright": "2.70",
+      "copyright": "2.72",
       "expiration_date": "*****",
-      "expiration_date_text": "2.58",
+      "expiration_date_text": "2.60",
       "catchcopy": "フィリピンペソ"
     },
     {
       "id": 19,
       "title": "SGD",
-      "copyright": "115.14",
-      "expiration_date": "113.48",
-      "expiration_date_text": "114.31",
+      "copyright": "115.61",
+      "expiration_date": "113.95",
+      "expiration_date_text": "114.78",
       "catchcopy": "シンガポールドル"
     },
     {
@@ -163,49 +163,49 @@
     {
       "id": 21,
       "title": "THB",
-      "copyright": "4.57",
-      "expiration_date": "4.41",
-      "expiration_date_text": "4.49",
+      "copyright": "4.59",
+      "expiration_date": "4.43",
+      "expiration_date_text": "4.51",
       "catchcopy": "タイバーツ"
     },
     {
       "id": 22,
       "title": "KWD",
-      "copyright": "486.04",
-      "expiration_date": "470.04",
-      "expiration_date_text": "478.04",
+      "copyright": "488.50",
+      "expiration_date": "472.50",
+      "expiration_date_text": "480.50",
       "catchcopy": "クウェートディナール"
     },
     {
       "id": 23,
       "title": "SAR",
-      "copyright": "39.77",
-      "expiration_date": "38.17",
-      "expiration_date_text": "38.97",
+      "copyright": "39.97",
+      "expiration_date": "38.37",
+      "expiration_date_text": "39.17",
       "catchcopy": "サウジアラビアリアル"
     },
     {
       "id": 24,
       "title": "AED",
-      "copyright": "40.46",
-      "expiration_date": "39.10",
-      "expiration_date_text": "39.78",
+      "copyright": "40.68",
+      "expiration_date": "39.32",
+      "expiration_date_text": "40.00",
       "catchcopy": "UAEディルハム"
     },
     {
       "id": 25,
       "title": "MXN",
-      "copyright": "8.85",
-      "expiration_date": "6.85",
-      "expiration_date_text": "7.85",
+      "copyright": "8.90",
+      "expiration_date": "6.90",
+      "expiration_date_text": "7.90",
       "catchcopy": "メキシコペソ"
     },
     {
       "id": 26,
       "title": "PGK",
-      "copyright": "35.90",
+      "copyright": "36.08",
       "expiration_date": "*****",
-      "expiration_date_text": "35.40",
+      "expiration_date_text": "35.58",
       "catchcopy": "パプアニューギニアキナ"
     },
     {
@@ -219,31 +219,31 @@
     {
       "id": 28,
       "title": "CZK",
-      "copyright": "7.08",
-      "expiration_date": "6.84",
-      "expiration_date_text": "6.96",
+      "copyright": "7.10",
+      "expiration_date": "6.86",
+      "expiration_date_text": "6.98",
       "catchcopy": "チェココロナ"
     },
     {
       "id": 29,
       "title": "PLN",
-      "copyright": "41.60",
-      "expiration_date": "39.20",
-      "expiration_date_text": "40.40",
+      "copyright": "41.79",
+      "expiration_date": "39.39",
+      "expiration_date_text": "40.59",
       "catchcopy": "ポーランドズロチ"
     },
     {
       "id": 30,
       "title": "TRY",
-      "copyright": "5.46",
-      "expiration_date": "1.86",
-      "expiration_date_text": "3.66",
+      "copyright": "5.47",
+      "expiration_date": "1.87",
+      "expiration_date_text": "3.67",
       "catchcopy": "トルコリラ"
     },
     {
       "id": 31,
       "title": "TWD",
-      "copyright": "5.03",
+      "copyright": "5.05",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "台湾ドル"
@@ -251,7 +251,7 @@
     {
       "id": 32,
       "title": "KRW(100)",
-      "copyright": "10.67",
+      "copyright": "10.69",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "韓国ウォン"
@@ -259,7 +259,7 @@
     {
       "id": 33,
       "title": "IDR(100)",
-      "copyright": "0.9",
+      "copyright": "0.91",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "インドネシアルピア"
@@ -267,7 +267,7 @@
     {
       "id": 34,
       "title": "MYR",
-      "copyright": "34.46",
+      "copyright": "34.59",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "マレーシアリンギ"
@@ -275,7 +275,7 @@
     {
       "id": 35,
       "title": "XPF",
-      "copyright": "1.44",
+      "copyright": "1.45",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "パシフィックフラン"
@@ -283,7 +283,7 @@
     {
       "id": 36,
       "title": "BRL",
-      "copyright": "26.62",
+      "copyright": "26.96",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "ブラジルレアル"
@@ -299,7 +299,7 @@
     {
       "id": 38,
       "title": "EGP",
-      "copyright": "2.94",
+      "copyright": "2.96",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "エジプトポンド"
@@ -307,7 +307,7 @@
     {
       "id": 39,
       "title": "RUB",
-      "copyright": "1.86",
+      "copyright": "1.87",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "ロシアルーブル"
