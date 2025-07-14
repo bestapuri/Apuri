@@ -3,15 +3,15 @@
     {
       "id": 2,
       "title": "NKY",
-      "copyright": "39,569.68",
-      "expiration_date": "-0.19%",
+      "copyright": "39,346.88",
+      "expiration_date": "-0.56%",
       "catchcopy": "日経平均株価"
     },
     {
       "id": 3,
       "title": "TPX",
-      "copyright": "2,823.24",
-      "expiration_date": "+0.39%",
+      "copyright": "2,811.37",
+      "expiration_date": "-0.42%",
       "catchcopy": "TOPIX(東証株価指数)"
     },
     {
@@ -31,8 +31,8 @@
     {
       "id": 6,
       "title": "AS51",
-      "copyright": "8,580.13",
-      "expiration_date": "-0.11%",
+      "copyright": "8,588.00",
+      "expiration_date": "+0.09%",
       "catchcopy": "S&P/ASX200指数"
     },
     {
