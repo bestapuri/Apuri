@@ -3,43 +3,43 @@
     {
       "id": 2,
       "title": "NKY",
-      "copyright": "42,264.89",
-      "expiration_date": "-1.06%",
+      "copyright": "42,380.59",
+      "expiration_date": "+0.45%",
       "catchcopy": "日経平均株価"
     },
     {
       "id": 3,
       "title": "TPX",
-      "copyright": "3,073.98",
-      "expiration_date": "-0.04%",
+      "copyright": "3,077.92",
+      "expiration_date": "+0.48%",
       "catchcopy": "TOPIX(東証株価指数)"
     },
     {
       "id": 4,
       "title": "HSI",
-      "copyright": "25,077.62",
-      "expiration_date": "+0.32%",
+      "copyright": "25,617.42",
+      "expiration_date": "+2.15%",
       "catchcopy": "香港ﾊﾝｾﾝ指数"
     },
     {
       "id": 5,
       "title": "SHSZ300",
-      "copyright": "4,496.76",
-      "expiration_date": "+0.74%",
+      "copyright": "4,523.71",
+      "expiration_date": "+0.60%",
       "catchcopy": "上海/ｼﾝｾﾝCSI300指数"
     },
     {
       "id": 6,
       "title": "AS51",
-      "copyright": "8,938.80",
-      "expiration_date": "-0.38%",
+      "copyright": "8,923.90",
+      "expiration_date": "-0.04%",
       "catchcopy": "S&P/ASX200指数"
     },
     {
       "id": 7,
       "title": "MXAP",
-      "copyright": "211.50",
-      "expiration_date": "-0.22%",
+      "copyright": "211.80",
+      "expiration_date": "+0.14%",
       "catchcopy": "MSCIACｱｼﾞｱ太平洋ｲﾝﾃﾞｯｸｽ"
     },
     {
@@ -80,36 +80,36 @@
     {
       "id": 15,
       "title": "SX5E",
-      "copyright": "5,351.73",
-      "expiration_date": "-0.83%",
+      "copyright": "5,367.08",
+      "expiration_date": "+0.29%",
       "catchcopy": "ﾕｰﾛ･ｽﾄｯｸｽ50指数"
     },
     {
       "id": 16,
       "title": "UKX",
-      "copyright": "9,187.34",
-      "expiration_date": "-0.32%",
+      "copyright": "9,196.34",
+      "expiration_date": "+0.10%",
       "catchcopy": "FTSE100指数"
     },
     {
       "id": 17,
       "title": "DAX",
-      "copyright": "23,902.21",
-      "expiration_date": "-0.57%",
+      "copyright": "24,037.33",
+      "expiration_date": "+0.57%",
       "catchcopy": "ﾄﾞｲﾂDAX指数"
     },
     {
       "id": 18,
       "title": "CAC",
-      "copyright": "7,703.90",
-      "expiration_date": "-0.76%",
+      "copyright": "7,707.90",
+      "expiration_date": "+0.05%",
       "catchcopy": "CAC40指数"
     },
     {
       "id": 19,
       "title": "IBEX",
-      "copyright": "14,935.80",
-      "expiration_date": "-0.90%",
+      "copyright": "14,939.40",
+      "expiration_date": "+0.02%",
       "catchcopy": "ｽﾍﾟｲﾝIBEX35指数"
     }
   ]
