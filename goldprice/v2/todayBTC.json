@@ -3,267 +3,267 @@
     {
       "id": 1,
       "title": "BTC/JPY",
-      "copyright": "18,649,188円",
-      "expiration_date": "-0.47%",
+      "copyright": "17,005,470円",
+      "expiration_date": "-8.82%",
       "catchcopy": "ビットコイン"
     },
     {
       "id": 2,
       "title": "ETH/JPY",
-      "copyright": "674,325円",
-      "expiration_date": "-2.37%",
+      "copyright": "575,450円",
+      "expiration_date": "-14.66%",
       "catchcopy": "イーサリアム"
     },
     {
       "id": 3,
       "title": "XRP/JPY",
-      "copyright": "431.33円",
-      "expiration_date": "-1.33%",
+      "copyright": "358.10円",
+      "expiration_date": "-16.97%",
       "catchcopy": "エックスアールピー（XRP）"
     },
     {
       "id": 4,
       "title": "DOGE/JPY",
-      "copyright": "38.07円",
-      "expiration_date": "-0.96%",
+      "copyright": "29.20円",
+      "expiration_date": "-23.30%",
       "catchcopy": "ドージコイン"
     },
     {
       "id": 5,
       "title": "SHIB/JPY",
-      "copyright": "0.0018253円",
-      "expiration_date": "-2.07%",
+      "copyright": "0.0015092円",
+      "expiration_date": "-17.33%",
       "catchcopy": "シバイヌ"
     },
     {
       "id": 6,
       "title": "PEPE/JPY",
-      "copyright": "0.001464円",
-      "expiration_date": "-1.74%",
+      "copyright": "0.001046円",
+      "expiration_date": "-28.55%",
       "catchcopy": "ペペ"
     },
     {
       "id": 7,
       "title": "XLM/JPY",
-      "copyright": "57.900円",
-      "expiration_date": "-1.13%",
+      "copyright": "48.539円",
+      "expiration_date": "-16.21%",
       "catchcopy": "ステラルーメン"
     },
     {
       "id": 8,
       "title": "LINK/JPY",
-      "copyright": "3,366円",
-      "expiration_date": "-2.04%",
+      "copyright": "2,629円",
+      "expiration_date": "-21.90%",
       "catchcopy": "チェーンリンク"
     },
     {
       "id": 9,
       "title": "AVAX/JPY",
-      "copyright": "4,320円",
-      "expiration_date": "-0.64%",
+      "copyright": "3,237円",
+      "expiration_date": "-25.10%",
       "catchcopy": "アバランチ"
     },
     {
       "id": 10,
       "title": "BCH/JPY",
-      "copyright": "88,692円",
-      "expiration_date": "+0.42%",
+      "copyright": "76,824円",
+      "expiration_date": "-13.36%",
       "catchcopy": "ビットコインキャッシュ"
     },
     {
       "id": 11,
       "title": "LTC/JPY",
-      "copyright": "19,499円",
-      "expiration_date": "+8.21%",
+      "copyright": "14,458円",
+      "expiration_date": "-25.73%",
       "catchcopy": "ライトコイン"
     },
     {
       "id": 12,
       "title": "DOT/JPY",
-      "copyright": "623円",
-      "expiration_date": "-1.27%",
+      "copyright": "440円",
+      "expiration_date": "-29.26%",
       "catchcopy": "ポルカドット"
     },
     {
       "id": 13,
       "title": "ETC/JPY",
-      "copyright": "2,971円",
-      "expiration_date": "+0.78%",
+      "copyright": "2,186円",
+      "expiration_date": "-26.42%",
       "catchcopy": "イーサリアムクラシック"
     },
     {
       "id": 14,
       "title": "POL/JPY",
-      "copyright": "36.62円",
-      "expiration_date": "-0.57%",
+      "copyright": "29.38円",
+      "expiration_date": "-19.77%",
       "catchcopy": "ポリゴンエコシステムトークン"
     },
     {
       "id": 15,
       "title": "MATIC/JPY",
-      "copyright": "37.16円",
-      "expiration_date": "-0.88%",
+      "copyright": "29.91円",
+      "expiration_date": "-19.51%",
       "catchcopy": "ポリゴン"
     },
     {
       "id": 16,
       "title": "SKY/JPY",
-      "copyright": "10.28円",
-      "expiration_date": "-1.34%",
+      "copyright": "9.17円",
+      "expiration_date": "-10.80%",
       "catchcopy": "スカイ"
     },
     {
       "id": 17,
       "title": "MKR/JPY",
-      "copyright": "233,059.84円",
-      "expiration_date": "-1.09%",
+      "copyright": "208,020.68円",
+      "expiration_date": "-10.71%",
       "catchcopy": "メイカー"
     },
     {
       "id": 18,
       "title": "RNDR/JPY",
-      "copyright": "528.5円",
-      "expiration_date": "-1.69%",
+      "copyright": "232.8円",
+      "expiration_date": "-55.94%",
       "catchcopy": "レンダートークン"
     },
     {
       "id": 19,
       "title": "FLR/JPY",
-      "copyright": "3.410円",
-      "expiration_date": "-2.96%",
+      "copyright": "2.942円",
+      "expiration_date": "-13.72%",
       "catchcopy": "フレア"
     },
     {
       "id": 20,
       "title": "IMX/JPY",
-      "copyright": "105.8円",
-      "expiration_date": "-1.67%",
+      "copyright": "75.0円",
+      "expiration_date": "-29.11%",
       "catchcopy": "イミュータブル"
     },
     {
       "id": 21,
       "title": "GRT/JPY",
-      "copyright": "12.46円",
-      "expiration_date": "-1.11%",
+      "copyright": "9.43円",
+      "expiration_date": "-24.32%",
       "catchcopy": "ザ・グラフ"
     },
     {
       "id": 22,
       "title": "XTZ/JPY",
-      "copyright": "103.1円",
-      "expiration_date": "-0.48%",
+      "copyright": "85.7円",
+      "expiration_date": "-16.88%",
       "catchcopy": "テゾス"
     },
     {
       "id": 23,
       "title": "SAND/JPY",
-      "copyright": "40.92円",
-      "expiration_date": "-0.73%",
+      "copyright": "30.26円",
+      "expiration_date": "-25.98%",
       "catchcopy": "ザ・サンドボックス"
     },
     {
       "id": 24,
       "title": "MANA/JPY",
-      "copyright": "48.83円",
-      "expiration_date": "-0.22%",
+      "copyright": "35.53円",
+      "expiration_date": "-27.25%",
       "catchcopy": "ディセントラランド"
     },
     {
       "id": 25,
       "title": "APE/JPY",
-      "copyright": "86.8円",
-      "expiration_date": "-0.80%",
+      "copyright": "55.8円",
+      "expiration_date": "-35.71%",
       "catchcopy": "エイプコイン"
     },
     {
       "id": 26,
       "title": "AXS/JPY",
-      "copyright": "341円",
-      "expiration_date": "+2.40%",
+      "copyright": "235円",
+      "expiration_date": "-30.88%",
       "catchcopy": "アクシーインフィニティ"
     },
     {
       "id": 27,
       "title": "CHZ/JPY",
-      "copyright": "6.31円",
-      "expiration_date": "-1.71%",
+      "copyright": "4.99円",
+      "expiration_date": "-21.04%",
       "catchcopy": "チリーズ"
     },
     {
       "id": 28,
       "title": "BAT/JPY",
-      "copyright": "25.56円",
-      "expiration_date": "+12.85%",
+      "copyright": "19.90円",
+      "expiration_date": "-22.51%",
       "catchcopy": "ベーシックアテンショントークン"
     },
     {
       "id": 29,
       "title": "MASK/JPY",
-      "copyright": "189.6円",
-      "expiration_date": "-1.30%",
+      "copyright": "128.9円",
+      "expiration_date": "-32.01%",
       "catchcopy": "マスクネットワーク"
     },
     {
       "id": 30,
       "title": "LSK/JPY",
-      "copyright": "43.8円",
-      "expiration_date": "0.00%",
+      "copyright": "34.1円",
+      "expiration_date": "-21.79%",
       "catchcopy": "リスク"
     },
     {
       "id": 31,
       "title": "XYM/JPY",
-      "copyright": "0.95円",
-      "expiration_date": "-1.04%",
+      "copyright": "0.90円",
+      "expiration_date": "-5.26%",
       "catchcopy": "シンボル"
     },
     {
       "id": 32,
       "title": "XEM/JPY",
-      "copyright": "0.219円",
-      "expiration_date": "-3.10%",
+      "copyright": "0.194円",
+      "expiration_date": "-10.60%",
       "catchcopy": "ネム"
     },
     {
       "id": 33,
       "title": "MONA/JPY",
-      "copyright": "17.068円",
-      "expiration_date": "-1.64%",
+      "copyright": "16.548円",
+      "expiration_date": "-3.04%",
       "catchcopy": "モナコイン"
     },
     {
       "id": 34,
       "title": "PLT/JPY",
-      "copyright": "2.71円",
-      "expiration_date": "-1.09%",
+      "copyright": "1.87円",
+      "expiration_date": "-31.00%",
       "catchcopy": "パレットトークン"
     },
     {
       "id": 35,
       "title": "DAI/JPY",
-      "copyright": "152.9円",
-      "expiration_date": "+0.20%",
+      "copyright": "151.1円",
+      "expiration_date": "-1.11%",
       "catchcopy": "ダイ"
     },
     {
       "id": 36,
       "title": "ZPG/JPY",
-      "copyright": "19,662.07円",
-      "expiration_date": "-0.46%",
+      "copyright": "19,623.63円",
+      "expiration_date": "-0.18%",
       "catchcopy": "ジパングコイン"
     },
     {
       "id": 37,
       "title": "ZPGAG/JPY",
-      "copyright": "244.1円",
-      "expiration_date": "+1.62%",
+      "copyright": "243.8円",
+      "expiration_date": "-0.08%",
       "catchcopy": "ジパングコインシルバー"
     },
     {
       "id": 38,
       "title": "ZPGPT/JPY",
-      "copyright": "8,000円",
-      "expiration_date": "-1.54%",
+      "copyright": "7,780円",
+      "expiration_date": "-2.85%",
       "catchcopy": "ジパングコインプラチナ"
     }
   ]
