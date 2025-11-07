@@ -1,6 +1,14 @@
 {
     "products": [
         {
+            "id": 50,
+            "title": "MEGAドリームex",
+            "type": "ハイクラスパック",
+            "release_date": "2025年11月28日",
+            "price": "550円",
+            "content": "カード10枚入り"
+        },
+        {
             "id": 49,
             "title": "インフェルノX",
             "type": "拡張パック",
