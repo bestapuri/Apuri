@@ -1,6 +1,14 @@
 {
     "products": [
         {
+            "id": 51,
+            "title": "ムニキスゼロ",
+            "type": "拡張パック",
+            "release_date": "20265年01月23日",
+            "price": "180円",
+            "content": "カード5枚入り"
+        },
+        {
             "id": 50,
             "title": "MEGAドリームex",
             "type": "ハイクラスパック",
