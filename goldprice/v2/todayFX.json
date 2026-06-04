@@ -3,98 +3,98 @@
     {
       "id": 1,
       "title": "USD",
-      "copyright": "160.75",
-      "expiration_date": "158.75",
-      "expiration_date_text": "159.75",
-      "catchcopy": "米ドル"
+      "copyright": "160.99",
+      "expiration_date": "158.99",
+      "expiration_date_text": "159.99",
+      "catchcopy": "邀ｳ繝峨Ν"
     },
     {
       "id": 2,
       "title": "GBP",
-      "copyright": "218.96",
-      "expiration_date": "210.96",
-      "expiration_date_text": "214.96",
-      "catchcopy": "英ポンド"
+      "copyright": "219.41",
+      "expiration_date": "211.41",
+      "expiration_date_text": "215.41",
+      "catchcopy": "闍ｱ繝昴Φ繝\\x{fffd}"
     },
     {
       "id": 3,
       "title": "EUR",
-      "copyright": "187.27",
-      "expiration_date": "184.27",
-      "expiration_date_text": "185.77",
-      "catchcopy": "ユーロ"
+      "copyright": "187.52",
+      "expiration_date": "184.52",
+      "expiration_date_text": "186.02",
+      "catchcopy": "繝ｦ繝ｼ繝ｭ"
     },
     {
       "id": 4,
       "title": "CAD",
-      "copyright": "116.98",
-      "expiration_date": "113.78",
-      "expiration_date_text": "115.38",
-      "catchcopy": "カナダドル"
+      "copyright": "117.18",
+      "expiration_date": "113.98",
+      "expiration_date_text": "115.58",
+      "catchcopy": "繧ｫ繝翫ム繝峨Ν"
     },
     {
       "id": 5,
       "title": "CHF",
-      "copyright": "203.91",
-      "expiration_date": "202.11",
-      "expiration_date_text": "203.01",
-      "catchcopy": "スイスフラン"
+      "copyright": "203.93",
+      "expiration_date": "202.13",
+      "expiration_date_text": "203.03",
+      "catchcopy": "繧ｹ繧､繧ｹ繝輔Λ繝ｳ"
     },
     {
       "id": 6,
       "title": "SEK",
-      "copyright": "17.55",
-      "expiration_date": "16.75",
-      "expiration_date_text": "17.15",
-      "catchcopy": "スウェーデンクローネ"
+      "copyright": "17.56",
+      "expiration_date": "16.76",
+      "expiration_date_text": "17.16",
+      "catchcopy": "繧ｹ繧ｦ繧ｧ繝ｼ繝\\x{fffd}繝ｳ繧ｯ繝ｭ繝ｼ繝\\x{fffd}"
     },
     {
       "id": 7,
       "title": "DKK",
-      "copyright": "25.16",
-      "expiration_date": "24.56",
-      "expiration_date_text": "24.86",
-      "catchcopy": "デンマーククローネ"
+      "copyright": "25.19",
+      "expiration_date": "24.59",
+      "expiration_date_text": "24.89",
+      "catchcopy": "繝\\x{fffd}繝ｳ繝槭\\x{fffd}ｼ繧ｯ繧ｯ繝ｭ繝ｼ繝\\x{fffd}"
     },
     {
       "id": 8,
       "title": "NOK",
-      "copyright": "17.52",
-      "expiration_date": "16.92",
-      "expiration_date_text": "17.22",
-      "catchcopy": "ノルウェークローネ"
+      "copyright": "17.53",
+      "expiration_date": "16.93",
+      "expiration_date_text": "17.23",
+      "catchcopy": "繝弱Ν繧ｦ繧ｧ繝ｼ繧ｯ繝ｭ繝ｼ繝\\x{fffd}"
     },
     {
       "id": 9,
       "title": "AUD",
-      "copyright": "116.90",
-      "expiration_date": "111.90",
-      "expiration_date_text": "114.40",
-      "catchcopy": "オーストラリアドル"
+      "copyright": "117.37",
+      "expiration_date": "112.37",
+      "expiration_date_text": "114.87",
+      "catchcopy": "繧ｪ繝ｼ繧ｹ繝医Λ繝ｪ繧｢繝峨Ν"
     },
     {
       "id": 10,
       "title": "NZD",
-      "copyright": "97.17",
-      "expiration_date": "92.07",
-      "expiration_date_text": "94.62",
-      "catchcopy": "ニュージーランドドル"
+      "copyright": "97.41",
+      "expiration_date": "92.31",
+      "expiration_date_text": "94.86",
+      "catchcopy": "繝九Η繝ｼ繧ｸ繝ｼ繝ｩ繝ｳ繝峨ラ繝ｫ"
     },
     {
       "id": 11,
       "title": "ZAR",
-      "copyright": "12.28",
-      "expiration_date": "7.28",
-      "expiration_date_text": "9.78",
-      "catchcopy": "南アフリカランド"
+      "copyright": "12.35",
+      "expiration_date": "7.35",
+      "expiration_date_text": "9.85",
+      "catchcopy": "蜊励い繝輔Μ繧ｫ繝ｩ繝ｳ繝\\x{fffd}"
     },
     {
       "id": 12,
       "title": "BHD",
-      "copyright": "431.52",
-      "expiration_date": "415.52",
-      "expiration_date_text": "423.52",
-      "catchcopy": "バーレーンディナール"
+      "copyright": "432.15",
+      "expiration_date": "416.15",
+      "expiration_date_text": "424.15",
+      "catchcopy": "繝舌\\x{fffd}ｼ繝ｬ繝ｼ繝ｳ繝\\x{fffd}繧｣繝翫\\x{fffd}ｼ繝ｫ"
     },
     {
       "id": 13,
@@ -102,23 +102,23 @@
       "copyright": "*****",
       "expiration_date": "*****",
       "expiration_date_text": "*****",
-      "catchcopy": "インドネシアルピア"
+      "catchcopy": "繧､繝ｳ繝峨ロ繧ｷ繧｢繝ｫ繝斐い"
     },
     {
       "id": 14,
       "title": "CNY",
-      "copyright": "23.92",
-      "expiration_date": "23.32",
-      "expiration_date_text": "23.62",
-      "catchcopy": "中国人民元"
+      "copyright": "23.95",
+      "expiration_date": "23.35",
+      "expiration_date_text": "23.65",
+      "catchcopy": "荳ｭ蝗ｽ莠ｺ豌大\\x{fffd}\\x{fffd}"
     },
     {
       "id": 15,
       "title": "HKD",
-      "copyright": "20.81",
-      "expiration_date": "19.95",
-      "expiration_date_text": "20.38",
-      "catchcopy": "香港ドル"
+      "copyright": "20.84",
+      "expiration_date": "19.98",
+      "expiration_date_text": "20.41",
+      "catchcopy": "鬥呎ｸｯ繝峨Ν"
     },
     {
       "id": 16,
@@ -126,7 +126,7 @@
       "copyright": "2.05",
       "expiration_date": "*****",
       "expiration_date_text": "1.68",
-      "catchcopy": "インドルピー"
+      "catchcopy": "繧､繝ｳ繝峨Ν繝斐\\x{fffd}ｼ"
     },
     {
       "id": 17,
@@ -134,7 +134,7 @@
       "copyright": "*****",
       "expiration_date": "*****",
       "expiration_date_text": "*****",
-      "catchcopy": "マレーシアリンギ"
+      "catchcopy": "繝槭Ξ繝ｼ繧ｷ繧｢繝ｪ繝ｳ繧ｮ"
     },
     {
       "id": 18,
@@ -142,15 +142,15 @@
       "copyright": "2.71",
       "expiration_date": "*****",
       "expiration_date_text": "2.59",
-      "catchcopy": "フィリピンペソ"
+      "catchcopy": "繝輔ぅ繝ｪ繝斐Φ繝壹た"
     },
     {
       "id": 19,
       "title": "SGD",
-      "copyright": "125.75",
-      "expiration_date": "124.09",
-      "expiration_date_text": "124.92",
-      "catchcopy": "シンガポールドル"
+      "copyright": "125.87",
+      "expiration_date": "124.21",
+      "expiration_date_text": "125.04",
+      "catchcopy": "繧ｷ繝ｳ繧ｬ繝昴\\x{fffd}ｼ繝ｫ繝峨Ν"
     },
     {
       "id": 20,
@@ -158,79 +158,79 @@
       "copyright": "*****",
       "expiration_date": "*****",
       "expiration_date_text": "*****",
-      "catchcopy": "韓国ウォン"
+      "catchcopy": "髻灘嵜繧ｦ繧ｩ繝ｳ"
     },
     {
       "id": 21,
       "title": "THB",
-      "copyright": "4.98",
-      "expiration_date": "4.82",
-      "expiration_date_text": "4.90",
-      "catchcopy": "タイバーツ"
+      "copyright": "4.97",
+      "expiration_date": "4.81",
+      "expiration_date_text": "4.89",
+      "catchcopy": "繧ｿ繧､繝舌\\x{fffd}ｼ繝\\x{fffd}"
     },
     {
       "id": 22,
       "title": "KWD",
-      "copyright": "528.70",
-      "expiration_date": "512.70",
-      "expiration_date_text": "520.70",
-      "catchcopy": "クウェートディナール"
+      "copyright": "529.31",
+      "expiration_date": "513.31",
+      "expiration_date_text": "521.31",
+      "catchcopy": "繧ｯ繧ｦ繧ｧ繝ｼ繝医ョ繧｣繝翫\\x{fffd}ｼ繝ｫ"
     },
     {
       "id": 23,
       "title": "SAR",
-      "copyright": "43.37",
-      "expiration_date": "41.77",
-      "expiration_date_text": "42.57",
-      "catchcopy": "サウジアラビアリアル"
+      "copyright": "43.43",
+      "expiration_date": "41.83",
+      "expiration_date_text": "42.63",
+      "catchcopy": "繧ｵ繧ｦ繧ｸ繧｢繝ｩ繝薙い繝ｪ繧｢繝ｫ"
     },
     {
       "id": 24,
       "title": "AED",
-      "copyright": "44.17",
-      "expiration_date": "42.81",
-      "expiration_date_text": "43.49",
-      "catchcopy": "UAEディルハム"
+      "copyright": "44.24",
+      "expiration_date": "42.88",
+      "expiration_date_text": "43.56",
+      "catchcopy": "UAE繝\\x{fffd}繧｣繝ｫ繝上Β"
     },
     {
       "id": 25,
       "title": "MXN",
-      "copyright": "10.20",
-      "expiration_date": "8.20",
-      "expiration_date_text": "9.20",
-      "catchcopy": "メキシコペソ"
+      "copyright": "10.26",
+      "expiration_date": "8.26",
+      "expiration_date_text": "9.26",
+      "catchcopy": "繝｡繧ｭ繧ｷ繧ｳ繝壹た"
     },
     {
       "id": 26,
       "title": "PGK",
-      "copyright": "38.46",
+      "copyright": "38.51",
       "expiration_date": "*****",
-      "expiration_date_text": "37.96",
-      "catchcopy": "パプアニューギニアキナ"
+      "expiration_date_text": "38.01",
+      "catchcopy": "繝代\\x{fffd}励い繝九Η繝ｼ繧ｮ繝九い繧ｭ繝\\x{fffd}"
     },
     {
       "id": 27,
       "title": "HUF",
       "copyright": "0.54",
-      "expiration_date": "0.50",
+      "expiration_date": "0.5",
       "expiration_date_text": "0.52",
-      "catchcopy": "ハンガリーフォリント"
+      "catchcopy": "繝上Φ繧ｬ繝ｪ繝ｼ繝輔か繝ｪ繝ｳ繝\\x{fffd}"
     },
     {
       "id": 28,
       "title": "CZK",
-      "copyright": "7.77",
-      "expiration_date": "7.53",
-      "expiration_date_text": "7.65",
-      "catchcopy": "チェココロナ"
+      "copyright": "7.81",
+      "expiration_date": "7.57",
+      "expiration_date_text": "7.69",
+      "catchcopy": "繝√ぉ繧ｳ繧ｳ繝ｭ繝\\x{fffd}"
     },
     {
       "id": 29,
       "title": "PLN",
-      "copyright": "45.08",
-      "expiration_date": "42.68",
-      "expiration_date_text": "43.88",
-      "catchcopy": "ポーランドズロチ"
+      "copyright": "45.13",
+      "expiration_date": "42.73",
+      "expiration_date_text": "43.93",
+      "catchcopy": "繝昴\\x{fffd}ｼ繝ｩ繝ｳ繝峨ぜ繝ｭ繝\\x{fffd}"
     },
     {
       "id": 30,
@@ -238,39 +238,39 @@
       "copyright": "5.28",
       "expiration_date": "1.68",
       "expiration_date_text": "3.48",
-      "catchcopy": "トルコリラ"
+      "catchcopy": "繝医Ν繧ｳ繝ｪ繝ｩ"
     },
     {
       "id": 31,
       "title": "TWD",
-      "copyright": "5.1",
+      "copyright": "5.09",
       "expiration_date": "0",
       "expiration_date_text": "0",
-      "catchcopy": "台湾ドル"
+      "catchcopy": "蜿ｰ貉ｾ繝峨Ν"
     },
     {
       "id": 32,
       "title": "KRW(100)",
-      "copyright": "10.55",
+      "copyright": "10.54",
       "expiration_date": "0",
       "expiration_date_text": "0",
-      "catchcopy": "韓国ウォン"
+      "catchcopy": "髻灘嵜繧ｦ繧ｩ繝ｳ"
     },
     {
       "id": 33,
       "title": "IDR(100)",
-      "copyright": "0.89",
+      "copyright": "0.9",
       "expiration_date": "0",
       "expiration_date_text": "0",
-      "catchcopy": "インドネシアルピア"
+      "catchcopy": "繧､繝ｳ繝峨ロ繧ｷ繧｢繝ｫ繝斐い"
     },
     {
       "id": 34,
       "title": "MYR",
-      "copyright": "40.31",
+      "copyright": "40.29",
       "expiration_date": "0",
       "expiration_date_text": "0",
-      "catchcopy": "マレーシアリンギ"
+      "catchcopy": "繝槭Ξ繝ｼ繧ｷ繧｢繝ｪ繝ｳ繧ｮ"
     },
     {
       "id": 35,
@@ -278,15 +278,15 @@
       "copyright": "1.56",
       "expiration_date": "0",
       "expiration_date_text": "0",
-      "catchcopy": "パシフィックフラン"
+      "catchcopy": "繝代す繝輔ぅ繝\\x{fffd}繧ｯ繝輔Λ繝ｳ"
     },
     {
       "id": 36,
       "title": "BRL",
-      "copyright": "31.78",
+      "copyright": "31.97",
       "expiration_date": "0",
       "expiration_date_text": "0",
-      "catchcopy": "ブラジルレアル"
+      "catchcopy": "繝悶Λ繧ｸ繝ｫ繝ｬ繧｢繝ｫ"
     },
     {
       "id": 37,
@@ -294,23 +294,23 @@
       "copyright": "0.61",
       "expiration_date": "0",
       "expiration_date_text": "0",
-      "catchcopy": "ベトナムドン"
+      "catchcopy": "繝吶ヨ繝翫Β繝峨Φ"
     },
     {
       "id": 38,
       "title": "EGP",
-      "copyright": "3.07",
+      "copyright": "3.09",
       "expiration_date": "0",
       "expiration_date_text": "0",
-      "catchcopy": "エジプトポンド"
+      "catchcopy": "繧ｨ繧ｸ繝励ヨ繝昴Φ繝\\x{fffd}"
     },
     {
       "id": 39,
       "title": "RUB",
-      "copyright": "2.22",
+      "copyright": "2.19",
       "expiration_date": "0",
       "expiration_date_text": "0",
-      "catchcopy": "ロシアルーブル"
+      "catchcopy": "繝ｭ繧ｷ繧｢繝ｫ繝ｼ繝悶Ν"
     }
   ]
 }
