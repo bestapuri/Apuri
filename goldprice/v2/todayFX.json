@@ -3,97 +3,97 @@
     {
       "id": 1,
       "title": "USD",
-      "copyright": "156.72",
-      "expiration_date": "154.72",
-      "expiration_date_text": "155.72",
+      "copyright": "156.93",
+      "expiration_date": "154.93",
+      "expiration_date_text": "155.93",
       "catchcopy": "米ドル"
     },
     {
       "id": 2,
       "title": "GBP",
-      "copyright": "214.74",
-      "expiration_date": "206.74",
-      "expiration_date_text": "210.74",
+      "copyright": "214.83",
+      "expiration_date": "206.83",
+      "expiration_date_text": "210.83",
       "catchcopy": "英ポンド"
     },
     {
       "id": 3,
       "title": "EUR",
-      "copyright": "182.60",
-      "expiration_date": "179.60",
-      "expiration_date_text": "181.10",
+      "copyright": "182.68",
+      "expiration_date": "179.68",
+      "expiration_date_text": "181.18",
       "catchcopy": "ユーロ"
     },
     {
       "id": 4,
       "title": "CAD",
-      "copyright": "114.51",
-      "expiration_date": "111.31",
-      "expiration_date_text": "112.91",
+      "copyright": "114.33",
+      "expiration_date": "111.13",
+      "expiration_date_text": "112.73",
       "catchcopy": "カナダドル"
     },
     {
       "id": 5,
       "title": "CHF",
-      "copyright": "193.65",
-      "expiration_date": "191.85",
-      "expiration_date_text": "192.75",
+      "copyright": "193.45",
+      "expiration_date": "191.65",
+      "expiration_date_text": "192.55",
       "catchcopy": "スイスフラン"
     },
     {
       "id": 6,
       "title": "SEK",
-      "copyright": "16.74",
-      "expiration_date": "15.94",
-      "expiration_date_text": "16.34",
+      "copyright": "16.69",
+      "expiration_date": "15.89",
+      "expiration_date_text": "16.29",
       "catchcopy": "スウェーデンクローネ"
     },
     {
       "id": 7,
       "title": "DKK",
-      "copyright": "24.53",
-      "expiration_date": "23.93",
-      "expiration_date_text": "24.23",
+      "copyright": "24.54",
+      "expiration_date": "23.94",
+      "expiration_date_text": "24.24",
       "catchcopy": "デンマーククローネ"
     },
     {
       "id": 8,
       "title": "NOK",
-      "copyright": "17.06",
-      "expiration_date": "16.46",
-      "expiration_date_text": "16.76",
+      "copyright": "17.07",
+      "expiration_date": "16.47",
+      "expiration_date_text": "16.77",
       "catchcopy": "ノルウェークローネ"
     },
     {
       "id": 9,
       "title": "AUD",
-      "copyright": "114.71",
-      "expiration_date": "109.71",
-      "expiration_date_text": "112.21",
+      "copyright": "114.89",
+      "expiration_date": "109.89",
+      "expiration_date_text": "112.39",
       "catchcopy": "オーストラリアドル"
     },
     {
       "id": 10,
       "title": "NZD",
-      "copyright": "94.32",
-      "expiration_date": "89.22",
-      "expiration_date_text": "91.77",
+      "copyright": "94.22",
+      "expiration_date": "89.12",
+      "expiration_date_text": "91.67",
       "catchcopy": "ニュージーランドドル"
     },
     {
       "id": 11,
       "title": "ZAR",
-      "copyright": "12.24",
-      "expiration_date": "7.24",
-      "expiration_date_text": "9.74",
+      "copyright": "12.28",
+      "expiration_date": "7.28",
+      "expiration_date_text": "9.78",
       "catchcopy": "南アフリカランド"
     },
     {
       "id": 12,
       "title": "BHD",
-      "copyright": "421.27",
-      "expiration_date": "405.27",
-      "expiration_date_text": "413.27",
+      "copyright": "421.72",
+      "expiration_date": "405.72",
+      "expiration_date_text": "413.72",
       "catchcopy": "バーレーンディナール"
     },
     {
@@ -107,17 +107,17 @@
     {
       "id": 14,
       "title": "CNY",
-      "copyright": "23.47",
-      "expiration_date": "22.87",
-      "expiration_date_text": "23.17",
+      "copyright": "23.54",
+      "expiration_date": "22.94",
+      "expiration_date_text": "23.24",
       "catchcopy": "中国人民元"
     },
     {
       "id": 15,
       "title": "HKD",
-      "copyright": "20.29",
-      "expiration_date": "19.43",
-      "expiration_date_text": "19.86",
+      "copyright": "20.31",
+      "expiration_date": "19.45",
+      "expiration_date_text": "19.88",
       "catchcopy": "香港ドル"
     },
     {
@@ -147,9 +147,9 @@
     {
       "id": 19,
       "title": "SGD",
-      "copyright": "123.76",
-      "expiration_date": "122.10",
-      "expiration_date_text": "122.93",
+      "copyright": "123.90",
+      "expiration_date": "122.24",
+      "expiration_date_text": "123.07",
       "catchcopy": "シンガポールドル"
     },
     {
@@ -163,49 +163,49 @@
     {
       "id": 21,
       "title": "THB",
-      "copyright": "4.82",
-      "expiration_date": "4.66",
-      "expiration_date_text": "4.74",
+      "copyright": "4.83",
+      "expiration_date": "4.67",
+      "expiration_date_text": "4.75",
       "catchcopy": "タイバーツ"
     },
     {
       "id": 22,
       "title": "KWD",
-      "copyright": "515.07",
-      "expiration_date": "499.07",
-      "expiration_date_text": "507.07",
+      "copyright": "516.41",
+      "expiration_date": "500.41",
+      "expiration_date_text": "508.41",
       "catchcopy": "クウェートディナール"
     },
     {
       "id": 23,
       "title": "SAR",
-      "copyright": "42.27",
-      "expiration_date": "40.67",
-      "expiration_date_text": "41.47",
+      "copyright": "42.33",
+      "expiration_date": "40.73",
+      "expiration_date_text": "41.53",
       "catchcopy": "サウジアラビアリアル"
     },
     {
       "id": 24,
       "title": "AED",
-      "copyright": "43.08",
-      "expiration_date": "41.72",
-      "expiration_date_text": "42.40",
+      "copyright": "43.14",
+      "expiration_date": "41.78",
+      "expiration_date_text": "42.46",
       "catchcopy": "UAEディルハム"
     },
     {
       "id": 25,
       "title": "MXN",
-      "copyright": "10.22",
-      "expiration_date": "8.22",
-      "expiration_date_text": "9.22",
+      "copyright": "10.23",
+      "expiration_date": "8.23",
+      "expiration_date_text": "9.23",
       "catchcopy": "メキシコペソ"
     },
     {
       "id": 26,
       "title": "PGK",
-      "copyright": "36.94",
+      "copyright": "36.97",
       "expiration_date": "*****",
-      "expiration_date_text": "36.44",
+      "expiration_date_text": "36.47",
       "catchcopy": "パプアニューギニアキナ"
     },
     {
@@ -219,17 +219,17 @@
     {
       "id": 28,
       "title": "CZK",
-      "copyright": "7.61",
-      "expiration_date": "7.37",
-      "expiration_date_text": "7.49",
+      "copyright": "7.60",
+      "expiration_date": "7.36",
+      "expiration_date_text": "7.48",
       "catchcopy": "チェココロナ"
     },
     {
       "id": 29,
       "title": "PLN",
-      "copyright": "43.12",
-      "expiration_date": "40.72",
-      "expiration_date_text": "41.92",
+      "copyright": "43.18",
+      "expiration_date": "40.78",
+      "expiration_date_text": "41.98",
       "catchcopy": "ポーランドズロチ"
     },
     {
@@ -243,7 +243,7 @@
     {
       "id": 31,
       "title": "TWD",
-      "copyright": "4.91",
+      "copyright": "4.93",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "台湾ドル"
@@ -251,7 +251,7 @@
     {
       "id": 32,
       "title": "KRW(100)",
-      "copyright": "11.47",
+      "copyright": "11.65",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "韓国ウォン"
@@ -267,7 +267,7 @@
     {
       "id": 34,
       "title": "MYR",
-      "copyright": "38.59",
+      "copyright": "38.6",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "マレーシアリンギ"
@@ -283,7 +283,7 @@
     {
       "id": 36,
       "title": "BRL",
-      "copyright": "30.53",
+      "copyright": "30.42",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "ブラジルレアル"
@@ -299,7 +299,7 @@
     {
       "id": 38,
       "title": "EGP",
-      "copyright": "3.06",
+      "copyright": "3.07",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "エジプトポンド"
@@ -307,7 +307,7 @@
     {
       "id": 39,
       "title": "RUB",
-      "copyright": "1.8",
+      "copyright": "1.82",
       "expiration_date": "0",
       "expiration_date_text": "0",
       "catchcopy": "ロシアルーブル"
