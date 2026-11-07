@@ -1,6 +1,30 @@
 {
     "products": [
         {
+            "id": 56,
+            "title": "ハドウシーカー",
+            "type": "拡張パック",
+            "release_date": "2026年11月03日",
+            "price": "200円",
+            "content": "カード5枚入り"
+        },
+        {
+            "id": 55,
+            "title": "30th CELEBRATION",
+            "type": "拡張パック",
+            "release_date": "2026年09月16日",
+            "price": "360円",
+            "content": "カード6枚入り"
+        },
+        {
+            "id": 54,
+            "title": "ストームエメラルダ",
+            "type": "拡張パック",
+            "release_date": "2026年05月22日",
+            "price": "200円",
+            "content": "カード5枚入り"
+        },
+        {
             "id": 53,
             "title": "アビスアイ",
             "type": "拡張パック",
