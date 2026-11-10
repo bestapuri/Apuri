@@ -3,25 +3,25 @@
     {
       "id": 1,
       "title": "金",
-      "copyright": "23042",
-      "yesterday": "22,685円",
-      "expiration_date_text": "+239円",
+      "copyright": "23199",
+      "yesterday": "22,842円",
+      "expiration_date_text": "+157円",
       "catchcopy": "JPY/g"
     },
     {
       "id": 2,
       "title": "銀",
-      "copyright": "302.72",
-      "yesterday": "285.67円",
-      "expiration_date_text": "+3.63円",
+      "copyright": "305.80",
+      "yesterday": "288.75円",
+      "expiration_date_text": "+3.08円",
       "catchcopy": "JPY/g"
     },
     {
       "id": 3,
       "title": "白金",
-      "copyright": "8872",
-      "yesterday": "8,449円",
-      "expiration_date_text": "+202円",
+      "copyright": "9001",
+      "yesterday": "8,578円",
+      "expiration_date_text": "+129円",
       "catchcopy": "JPY/g"
     }
   ]
