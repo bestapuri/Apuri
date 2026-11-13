@@ -1,0 +1,44 @@
+[
+  {
+    "id": "XAU",
+    "name": "금",
+    "symbol": "USD/oz",
+    "current_price": 3887.24,
+    "bid_price": 3884.69,
+    "price_change_24h": 10.14,
+    "krw_per_gram": 167179,
+    "krw_per_gram_change_24h": 531.7,
+    "usd_krw": 1336.53,
+    "usd_krw_change": 0.77,
+    "premium_pct": 7.35,
+    "date": "2026-11-14"
+  },
+  {
+    "id": "XAG",
+    "name": "은",
+    "symbol": "USD/oz",
+    "current_price": 49.23,
+    "bid_price": 49.11,
+    "price_change_24h": -0.88,
+    "krw_per_gram": 2117,
+    "krw_per_gram_change_24h": -36.58,
+    "usd_krw": 1336.53,
+    "usd_krw_change": 0.77,
+    "premium_pct": 13.37,
+    "date": "2026-11-14"
+  },
+  {
+    "id": "XPT",
+    "name": "백금",
+    "symbol": "USD/oz",
+    "current_price": 1498.39,
+    "bid_price": 1491.81,
+    "price_change_24h": -22.74,
+    "krw_per_gram": 64393.17,
+    "krw_per_gram_change_24h": -939.59,
+    "usd_krw": 1336.53,
+    "usd_krw_change": 0.77,
+    "premium_pct": 9.33,
+    "date": "2026-11-14"
+  }
+]
