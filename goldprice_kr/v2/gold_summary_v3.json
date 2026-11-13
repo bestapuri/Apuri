@@ -1,0 +1,76 @@
+{
+  "version": 3,
+  "date": "2026-11-13",
+  "units": [
+    {
+      "key": "g",
+      "label": "1g",
+      "grams": 1
+    },
+    {
+      "key": "don",
+      "label": "1돈 (3.75g)",
+      "grams": 3.75
+    },
+    {
+      "key": "100g",
+      "label": "100g",
+      "grams": 100
+    },
+    {
+      "key": "kg",
+      "label": "1kg",
+      "grams": 1000
+    }
+  ],
+  "metals": [
+    {
+      "id": "gold",
+      "name": "금",
+      "rows": [
+        {
+          "type": "금 24K",
+          "buy_per_gram": 179466,
+          "sell_per_gram": 167179
+        },
+        {
+          "type": "금 18K",
+          "buy_per_gram": 134600,
+          "sell_per_gram": 125384
+        }
+      ]
+    },
+    {
+      "id": "silver",
+      "name": "은",
+      "rows": [
+        {
+          "type": "은 999",
+          "buy_per_gram": 2400,
+          "sell_per_gram": 2117
+        },
+        {
+          "type": "은 925",
+          "buy_per_gram": 2220,
+          "sell_per_gram": 1958
+        }
+      ]
+    },
+    {
+      "id": "platinum",
+      "name": "백금",
+      "rows": [
+        {
+          "type": "백금 Pt1000",
+          "buy_per_gram": 70400,
+          "sell_per_gram": 64394
+        },
+        {
+          "type": "백금 Pt950",
+          "buy_per_gram": 66880,
+          "sell_per_gram": 61175
+        }
+      ]
+    }
+  ]
+}
