@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "units": [
     {
       "key": "g",
@@ -30,13 +30,13 @@
       "rows": [
         {
           "type": "금 24K",
-          "buy_per_gram": 169333,
-          "sell_per_gram": 156542
+          "buy_per_gram": 164613,
+          "sell_per_gram": 151975
         },
         {
           "type": "금 18K",
-          "buy_per_gram": 127000,
-          "sell_per_gram": 117406
+          "buy_per_gram": 123460,
+          "sell_per_gram": 113981
         }
       ]
     },
@@ -46,13 +46,13 @@
       "rows": [
         {
           "type": "은 999",
-          "buy_per_gram": 2093,
-          "sell_per_gram": 1877
+          "buy_per_gram": 1960,
+          "sell_per_gram": 1784
         },
         {
           "type": "은 925",
-          "buy_per_gram": 1936,
-          "sell_per_gram": 1736
+          "buy_per_gram": 1813,
+          "sell_per_gram": 1650
         }
       ]
     },
@@ -62,13 +62,13 @@
       "rows": [
         {
           "type": "백금 Pt1000",
-          "buy_per_gram": 62133,
-          "sell_per_gram": 57375
+          "buy_per_gram": 58933,
+          "sell_per_gram": 55166
         },
         {
           "type": "백금 Pt950",
-          "buy_per_gram": 59026,
-          "sell_per_gram": 54506
+          "buy_per_gram": 55986,
+          "sell_per_gram": 52408
         }
       ]
     }
